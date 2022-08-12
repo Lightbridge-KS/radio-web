@@ -1,0 +1,68 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "LB Radiology"
+  author: "Kittipos Sirivongrungson"
+  description: |
+    My Personal Website for Radiology Knowledge Collection
+  date: now
+  page-navigation: true
+  page-footer: 
+    center: 
+      - icon: github
+        href: https://github.com/Lightbridge-KS/radio-web
+        aria-label: LB Radiology GitHub
+    right: 
+      - text: "License"
+        href: LICENSE.md
+  navbar:
+    background: light
+    collapse-below: lg
+    right:
+      - icon: github
+        href: https://github.com/Lightbridge-KS/radio-web
+        aria-label: GitHub
+    left:
+      - href: index.qmd
+        text: Home
+      - href: "docs/resources.qmd"
+        text: Resources
+      - href: "docs/rotations/index.qmd"
+        text: Rotations
+      - href: "docs/templates/index.qmd"
+        text: Templates
+      - about.qmd
+
+  sidebar: 
+    # Templates
+    - id: templates
+      collapse-level: 2
+      align: left
+      style: "floating"
+      contents: 
+      - "docs/templates/index.qmd"
+      - "docs/templates/us/tmp-us-scrotum.qmd"
+    
+    # Rotations by Systems
+    - id: rotations
+      collapse-level: 2
+      align: left
+      style: "floating"
+      contents: 
+      - "docs/rotations/index.qmd"
+      - "docs/rotations/test.qmd"
+
+
+format:
+  html:
+    theme: 
+      light: cosmo 
+      dark: slate
+    css: styles.css
+    toc: true
+
+
+
+freeze: auto

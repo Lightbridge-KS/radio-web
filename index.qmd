@@ -1,0 +1,15 @@
+---
+title: "Welcome"
+---
+
+
+::: {.callout-note appearance="simple"}
+
+This is my **radiology website** for knowledge collection, report templates, and much more.
+:::
+
+
+
+## License
+
+This work is licensed under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) License.

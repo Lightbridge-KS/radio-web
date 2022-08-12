@@ -1,0 +1,9 @@
+---
+title: "Templates"
+---
+
+::: {.callout-note}
+### About
+
+My template for radiology reports.
+:::

@@ -1,0 +1,30 @@
+# Scrotum Template
+
+## Normal 
+
+**US OF THE SCROTUM**
+
+**FINDINGS:**
+
+**RIGHT:** 
+
+-   **Testis:** Normal size and echogenicity. No mass. 
+-   **Epididymis:** Normal. 
+-   **Scrotal sac and wall:** No hydrocele and varicocele. Normal wall thickness.
+-   **Spermatic cord:** Normal. 
+
+**LEFT:** 
+
+[same as above]
+
+There is equal flow to both testicles. 
+
+**IMPRESSION:** 
+
+## Hydrocele
+
+**Scrotal sac and wall:** `[Small | Moderate | Large]` amount of hydrocele.
+
+## Varicocele
+
+**Scrotal sac and wall:** `[Small | Moderate | Large]` varicocele is present.
