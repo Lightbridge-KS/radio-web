@@ -1,0 +1,11 @@
+# CXR Template
+
+## COVID
+
+### Patchy
+
+**Lungs:** Patchy ground-glass opacity at ___ lung zone   
+
+**IMPRESSION:**
+
+- Patchy ground-glass opacity at ___ lung zone; probably reflecting early/mild COVID-19 pneumonia.

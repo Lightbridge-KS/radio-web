@@ -1,0 +1,56 @@
+# CT Brain Temp (Location)
+
+## How to Describe
+
+### Lobes region
+
+-  `[left | right | bilat]` {lobe} convexity (e.g., temporal convexity)
+
+-  `[left | right | bilat]` `?-?` convexity (e.g., parieto-occipital convexity)
+
+### Changes
+
+**Series**
+
+-   Chronological change of ___, now seen as ...
+
+-   Sequelae of ___ seen as ...
+
+**New:** There is development of ___
+
+**Resolved:** There is resolution of ___
+
+
+## Cerebral parenchyma
+
+### Normal
+
+The study reveals normal brain volume. The rest of the imaged cerebral parenchyma appears unremarkable. No new acute large territory infarction is identified.
+
+### Brain Vol. loss
+
+The study reveals:
+
+diffuse brain volume loss, 
+
+-  `appropriate for age`
+-  `advanced more than age`
+
+with normal gray-white differentiation of the brain parenchyma.
+
+## Posterior fossa
+
+**Cerebellum and posterior fossa:** Normal given a limited evaluation of the brainstem due to beam-hardening artifacts.
+
+## Vascular system
+
+### Athero
+
+**Vascular system:** `[Mild | Moderate | Severe]` atherosclerotic change of the
+
+-   ICAs
+-   vertebrobasilar system
+
+## Skull base/ sella / TMJ
+
+**Skull base, sella and temporomandibular joints (TMJs):** Unremarkable. 

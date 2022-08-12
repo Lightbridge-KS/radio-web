@@ -1,0 +1,48 @@
+# Doppler Template
+
+## Normal CCUS (Thigh + Calf)
+
+**EMERGENCY DOPPLER US OF THE ___ LOWER EXTREMITY**
+
+HISTORY: A ___ female known case of __ presented with dyspnea with __ leg swollen for __ day (D-dimer = ?). She was sent for R/O DVT. 
+
+
+**TECHNIQUES:** Gray-scale, compression US of the lower extremities was performed from the common femoral vein (CFV), femoral vein (FV) down to popliteal vein at every 1-2 cm intervals.
+
+**COMPARISON:** None. 
+
+**FINDINGS:**
+
+-   **CFV:** Normal compressibility. No filling defect. 
+-   **SFJ:** No filling defect. 
+-   **DFV:** No filling defect. 
+-   **Proximal FV:** Normal compressibility. No filling defect. 
+-   **Mid FV:** Normal compressibility. No filling defect. 
+-   **Distal FV:** Normal compressibility. No filling defect. 
+-   **Popliteal vein:** Normal compressibility. No filling defect. 
+-   **Visualized calf veins:** Patent.
+-   **Augmentation:** Normal pulsed wave Doppler responses in the CFV, FV and popliteal vein with calf augmentation. 
+
+**Soft tissues:** Normal
+
+**Contralateral CFV (screening):** Normal compressibility. No filling defect. 
+
+(CFV = common femoral vein, SFJ = sphenofemoral junction, DFV = deep femoral vein, FV = femoral vein)
+
+
+**IMPRESSION:**
+
+-   No evidence of acute deep vein thrombosis.
+
+
+## Chronic DVT
+
+**Thick wall & Small size:** Add `Diffuse small size with wall thickening` to respective veins.
+
+
+**IMPRESSION:**
+
+- Likely chronic DVT along the ___ vein.
+
+
+

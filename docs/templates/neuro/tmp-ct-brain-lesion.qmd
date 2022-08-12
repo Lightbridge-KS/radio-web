@@ -1,0 +1,152 @@
+# CT Brain Temp (Lesion)
+
+## Short Prelim
+
+No 
+
+-  intracranial hemorrhage, 
+-  extra-axial collection, 
+-  acute large territorial infarction, 
+-  midline shift or brain herniation 
+
+identified.
+
+
+## Infarction
+
+### Lacunar
+
+`[A few | several]` (small) **well-defined hypodense lesions** at 
+
+-   `[anterior | posterior]` limb of internal capsule
+
+-   `{side}` lentiform nucleus, 
+
+likely chronic lacunar infarctions.
+
+### Small VV dz
+
+(Mild) patchy hypodense changes involving at
+
+-   `[lt | rt | bilat]` corona radiata
+-   periventricular white matter of {lobe}
+
+**IMPRESSION:** 
+
+-   (Mild) degree of small vessel disease.
+
+### Chronic Infarction
+
+A wedge-shaped hypodense lesion at ___, 
+
+likely chronic infarction of the ___ artery territory. 
+
+
+## Hemorrhage
+
+### SDH
+
+`[There is development of | New]`
+
+-   (+) `[Acute | Subacute | Chronic]` (on chronic) subdural hematoma (SDH) along `[left | right]` ___ convexity, measuring up to ?? cm in **maximal thickness**.
+
+
+-   (+) crescent-shaped `[isodense | hyperdense]` lesion along ___ convexity, about ?? cm in maximal thickness; likely representing `[Acute | Subacute | Chronic]` (on chronic) subdural hematoma (SDH).
+
+**IMPRESSION:** 
+
+- `[Increased | decreased]` thickness of __ subdural hematoma (SDH) along __.
+
+-  Thin (? mm) `[Acute | Subacute | Chronic]` SDH along ___.
+
+### SAH
+
+SAH along 
+
+-   (+) `[left | right | bilateral]` cerebral sulci
+-   (+)  basal cistern
+-   (+) `[bilateral]` MCA cistern
+-   (+) `[left | right | bilateral]` Sylvian fissure.
+
+### Contusion
+
+Hemorrhagic brain contusion at ___
+
+## Pressure Effect
+
+**Abbr:** midline shift or brain herniation
+
+**Full**
+
+-   `[left | right | bilateral]` uncal herniations
+-   descending transtentorial herniations
+-   crowding of the foramen magnum
+-   tonsillar herniation
+
+### No / Not change
+
+No uncal herniation, descending transtentorial herniations, crowding of the foramen magnum, or tonsillar herniation is seen. 
+
+No significant change of pressure effects, seen as ...
+
+### Yes
+
+Pressure effect `[causing | is seen as]` ...
+
+-  (+) effacement of adjacent `[left | right | bilateral]` `{lobe}` ___ **sulci**,
+
+-  (+) ?-mm `rightward | leftward` **midline shift**
+
+-  (+) (impending) ___ **herniation**
+
+**IMPRESSION:** 
+
+-   `Increased` pressure effects are seen as 
+
+## Calcification
+
+(Dense) calcification(s) `[at | along]`
+
+-   `[bilateral]` globus pallidus.
+-   falx cerebri
+
+(is noted.)
+
+
+## Chronic lesion
+
+(Chronological change of ___, now seen as...)
+
+encephalomalacia/gliosis change
+
+-   (+) with volume loss, and
+
+-   (+) associated ex-vacuo dilatation of the ___ ventricles.
+
+
+**IMPRESSION:**
+
+-   Sequelae of old traumatic contusion seen as encephalomalacia/gliosis change at ___ and associated ex-vacuo dilatation of ??? ventricles.
+
+
+## Post Op
+
+### Craniotomy 
+
+Evidence of ___ **craniotomy** is noted, 
+
+along with post-operative changes seen as 
+
+-   (+) dural thickening with calcification along ___ 
+
+-   (+) (small) extradural fluid collection, measuring up to __ mm in maximal thickness. 
+
+-   (+) `[Increased | Decreased]` degree of scalp swelling and soft tissue gas along surgical site. 
+
+**IMPRESSION:** 
+
+- Post ___ craniotomy, with post operative changes seen as dural thickening and calcification. `(small)` extradural fluid collection is still noted.
+
+## Tube / Line
+
+**Feeding:** Feeding tube placement via ___ nostril. 

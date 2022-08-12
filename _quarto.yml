@@ -49,11 +49,21 @@ website:
       contents: 
       - href: "docs/templates/index.qmd"
         text: About
+      - section: Neurology
+        contents:
+        - "docs/templates/neuro/tmp-ct-brain-loc.qmd"
+        - "docs/templates/neuro/tmp-ct-brain-lesion.qmd"
       - section: Ultrasound
         contents:
         - "docs/templates/us/tmp-us-abdo.qmd"
         - "docs/templates/us/tmp-us-thyroid.qmd"
         - "docs/templates/us/tmp-us-scrotum.qmd"
+      - section: CVS
+        contents:
+        - "docs/templates/cvs/tmp-doppler.qmd"
+      - section: Chest
+        contents:
+        - "docs/templates/chest/tmp-cxr.qmd"
     
     # Rotations by Systems
     - id: rotations
