@@ -1,4 +1,6 @@
-# CT Brain Temp (Lesion)
+---
+title: "CT Brain Temp (Lesion)"
+---
 
 ## Short Prelim
 

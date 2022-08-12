@@ -1,4 +1,6 @@
-# CXR Template
+---
+title: "CXR Template"
+---
 
 ## COVID
 

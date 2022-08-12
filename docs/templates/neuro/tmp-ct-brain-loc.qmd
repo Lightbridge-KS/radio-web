@@ -1,4 +1,6 @@
-# CT Brain Temp (Location)
+---
+title: "CT Brain Temp (Location)"
+---
 
 ## How to Describe
 

@@ -1,4 +1,6 @@
-# Thyroid Template
+---
+title: "Thyroid Template"
+---
 
 ## Thyroid Normal
 

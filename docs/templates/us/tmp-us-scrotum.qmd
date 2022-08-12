@@ -1,4 +1,6 @@
-# Scrotum Template
+---
+title: "Scrotum Template"
+---
 
 ## Normal 
 
