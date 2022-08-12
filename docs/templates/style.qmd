@@ -1,0 +1,170 @@
+# Style Guide {.unnumbered}
+
+::: {.callout-note}
+### About
+
+A general style guide for constructing radiology report in English.
+:::
+
+## Measure Size
+
+-   `?-unit object`: e.g., A 4.2-cm gallstone
+
+-   `object size ___ unit`: e.g., Common bile duct size 4.4 mm
+
+-   `___ unit in blah.`: e.g., 0.3 cm in thickness.
+
+-   `Size = ___ `: e.g.
+    -   **Isthmus:** Thickness = 2.0 mm. 
+
+-   `object, measuring ___ unit`: e.g.
+    -   **Left kidney:** Normal size and parenchymal echogenicity, measuring about 11.6 x 5.0 x 4.2 cm. 
+
+## Size Change
+
+**Full**
+
+-   `[increase | decrease | No significant change]` (in size) of 🤔
+
+**Abbreviated**
+
+-   No changed of 🤔 at ...
+
+-   🤔 size ___, unchanged.
+
+**Previous comparison**
+
+-   measuring 🤔 cm (from ? cm) 
+
+-   measuring 🤔 cm (previously ? cm) 
+
+## Uncertain
+
+### Uncertain amount
+
+-   `[a few | several | innumerable]` + pleural countable n. (e.g., a few cysts)
+
+-   `[small | large]` amount of + uncountable n. (e.g., small amount of free fluid)
+
+### Uncertain measurement
+
+-   `about ...`: measuring about 3 cm.
+
+-   `size up to ...`: size up to 1 cm.
+
+-   `ranging from ? - ?`: ranging from 0.4-1.0 cm.
+
+-   ___ lesion of `vary in size`
+
+**Note:** abbreviation of unit *do not* requires period (e.g., `cm`, `mm`, `ml`).
+
+
+
+## New Lesion
+
+-   A new ?-cm 🤔 at ⛰
+
+-   Newly seen a 🤔 at ⛰
+
+-   🤔 are seen, measuring about ___
+
+
+##  Seen on
+
+-   A seen best in/on ___ view.
+
+##  Not seen
+
+-   `without demonstrable cause of` ___. (e.g., w/o demonstrable cause of obstruction)
+
+-   `without evidence of` ___. (e.g., GS w/o without evidence of cholecystitis)
+
+-   There is `no evidence of` A.
+
+-   `No demonstrated` ___. (e.g., No demonstrated caliceal stone at both kidneys)
+
+
+## The rest is OK
+
+-   Otherwise, unremarkable
+-   The remainder of ... is/are unremarkable.
+
+## Limited evaluation
+
+**Ultrasound study**
+
+`Limited evaluation` due to ...
+
+-   patient's condition
+-   high liver position
+-   overlying bowel gas
+
+## DDx
+
+(These findings are ...)
+
+**Sure**
+
+-   `[consistent | compatible]` with A
+-   `[suggesting | suggestive]` of A
+
+-   likely A
+-   most likely representing A
+
+**Maybe**
+
+-   `[probably = possibly > could be]` A, B, or C
+
+## IMP Tricks
+
+**IMPRESSION:**
+
+**Won't describe:** _____ as mentioned above.
+
+## Suggestion
+
+-   (+) Follow-up is advised.
+
+-   (+) Please correlate with clinical findings.
+
+-   (+) Further (evaluation by) ... is recommended.
+
+-   (+) Further dedicated contrasted CT/MRI is advised for characterization. 
+
+
+## Describe Focal Lesions
+
+-   **Amount:**
+
+    -   Solitary/single
+    -   Multiple (diffuse, segmental, lobar...)
+
+-   **Size:**
+
+    -   **Precise:** A `?-cm` cyst
+    -   **Not precise:** cyst, measuring `about` ? cm.
+    -   **Range:** `ranging from` ? - ? 
+    -   **Largest one:** `up to` ? cm.
+
+-   **Shape:**
+
+    -   round, oval, lobulated, irregular
+
+-   **Contour & Delimination:**
+
+    -  **Contour:** smooth, irregular
+    -   **Delimination** from adjacent parenchyma: `well | ill`-defined
+
+-   **Location**
+
+-   **Echogenicity | Density** (+ enhancement)
+
+## Many Items Tricks
+
+`Multi-subj` + `Verb`
+
+**Ex:**
+
+The findings about `A` **with** (associated) `B`, `C`, **and** `D`, **as well as** `E` 
+
+in this report was ...
