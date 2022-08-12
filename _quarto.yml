@@ -8,7 +8,12 @@ website:
   description: |
     My Personal Website for Radiology Knowledge Collection
   date: now
+
+  site-url: https://radio-lightbridge.netlify.app
+  repo-url: https://github.com/Lightbridge-KS/radio-web
+  repo-actions: [edit]
   page-navigation: true
+
   page-footer: 
     center: 
       - icon: github
@@ -38,18 +43,23 @@ website:
   sidebar: 
     # Templates
     - id: templates
-      collapse-level: 2
+      collapse-level: 1
       align: left
-      style: "floating"
+      style: "docked"  # "floating"
       contents: 
-      - "docs/templates/index.qmd"
-      - "docs/templates/us/tmp-us-scrotum.qmd"
+      - href: "docs/templates/index.qmd"
+        text: About
+      - section: Ultrasound
+        contents:
+        - "docs/templates/us/tmp-us-abdo.qmd"
+        - "docs/templates/us/tmp-us-thyroid.qmd"
+        - "docs/templates/us/tmp-us-scrotum.qmd"
     
     # Rotations by Systems
     - id: rotations
-      collapse-level: 2
+      collapse-level: 1
       align: left
-      style: "floating"
+      style: "docked"
       contents: 
       - "docs/rotations/index.qmd"
       - "docs/rotations/test.qmd"

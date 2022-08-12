@@ -1,0 +1,379 @@
+# Abdomen Template
+
+## Abdo Normal 
+
+### Normal U/S WA
+
+
+**FINDINGS:** 
+
+**Liver:** Normal size and parenchymal echogenicity. No focal lesion. 
+
+**Biliary system:** CBD size ___ mm. No intrahepatic ductal dilatation. 
+
+**Gallbladder:** (`[Well | Partially]`)-distended gallbladder. No stone or mass.
+
+**Spleen:** Normal in size. 
+
+**Pancreas:** Visualized portions are unremarkable.
+
+**Kidneys:** Normal size and parenchymal echogenicity of both kidneys. No stone, hydronephrosis or solid mass. 
+
+**Urinary bladder:** No stone or mass. 
+
+**Aorta:** Normal caliber. 
+
+**Peritoneum:** No free fluid. 
+
+(Choose one)
+
+**Prostate gland:** Normal size, measuring ___ ml in volume. 
+
+**Uterus:** Unremarkable.
+
+**Ovaries:** `[Normal size of | Non-visualized]` both ovaries. No gross adnexal mass. 
+
+
+**IMPRESSION:** [TODO]
+
+
+### Normal U/S KUB
+
+**FINDING:**
+
+**Right kidney:** Normal size and parenchymal echogenicity, measuring about _ x _ x _ cm. No stone or hydronephrosis. 
+
+**Left kidney:** Normal size and parenchymal echogenicity, measuring about _ x _ x _ cm. No stone or hydronephrosis.
+
+**Bladder:** Well-distended urinary bladder without stone or mass. 
+
+**Uterus:** Endometrial thickness measures about ___ mm. 
+
+**Ovaries and adnexae:** Normal size of both ovaries.
+
+**Others:** No free fluid. 
+
+### Limited study
+
+-   **Bowel gas:** Limited evaluation due to overlying bowel gas.
+
+-   **High liver:** Limited evaluation due to high liver position.
+
+## Liver Findings 
+
+### History
+
+-  NAFLD; surveillance.
+-  Chronic HBV infection; HCC surveillance.
+
+### Parenchymatous Dz
+
+**Increase Echo or Coarse**
+
+-  **Liver:** Normal size and (mildly/slightly) `[increased | coarse]` parenchymal echogenicity. No focal sesion.
+
+**IMPRESSION:**
+
+-   (Mild) Parenchymatous disease of the liver without focal lesion.
+
+### Fatty Liver
+
+- **Mild:** Normal size with mildly increased parenchymal echogenicity of the liver,
+
+- **Moderate:** Normal size with (diffusely) increased parenchymal echogenicity of the liver, causing imparied visualization of **intrahepatic vasculature**, 
+
+- **Severe:** Normal size with (diffusely) increased parenchymal echogenicity of the liver, causing imparied visualization of intrahepatic vasculature and **right hemidiaphragm**,
+
+... compatible with `[mild | moderate | severe]` fatty liver.
+
+**(Focal fat sparing):** + Geographic hypoechoic areas `[at | adjacent to]`...
+
+- periportal
+- peri-gallbladder (gallbladder fossa)
+- ...
+
+region, likely a focal fat sparing. (ref: [rID-6852](https://doi.org/10.53347/rID-6852)) 
+
+**IMPRESSION:** 
+
+- `[Mild | Moderate | Severe]` fatty liver without focal lesion.
+- `[Mild | Moderate | Severe]` fatty liver with focal fat sparing adjacent to ___. No gross mass.
+
+
+### Cirrhosis
+
+- **Liver:** `[Normal size | Enlarged caudate lobe]` with diffusely coarsen parenchymal echogenicity and surface nodularity. No focal lesion. Portal vein enlarged, measuring ___ cm.
+
+- **Spleen:** Spleenomegaly ?. No focal lesion.
+
+**IMPRESSION:** 
+
+- Liver cirrhosis without focal lesion.
+
+## Biliary Findings
+
+### GB Adenomyomatosis
+
+**Gallbladder:** Distended gallbladder with ...
+
+(Choose one)
+
+-   focal (localised)
+-   segmental (annular)
+-   generalised (diffuse)
+
+adenomyomatosis at ___ of the gallbladder. No stone. 
+
+**IMPRESSION:** 
+
+- `[Focal | Segmental | Generalised]` adenomyomatosis of the gallbladder at ___.  
+
+(Ref: [radiopedia](https://doi.org/10.53347/rID-7056))
+
+
+### Gallstone
+
+
+**Gallbladder:** A ???-cm gallstone. No gallbladder wall thickening or pericholecystic fluid.
+
+**IMPRESSION:** 
+
+- A ???-cm gallstone without evidence of cholecystitis 
+
+
+### Bile sludge
+
+**Gallbladder:** Distended gallbladder containing bile sludge. No gallbladder wall thickening or pericholecystic fluid. No stone or mass.
+
+**IMPRESSION:**
+
+- Bile sludge in gallbladder without evidence of cholecystitis
+
+### Post-cholecystectomy
+
+- **Gallbladder:** Surgically absent gallbladder.
+
+
+### Cholecystostomy
+
+**Gallbladder:** Collapsed gallbladder with retained cholecystostomy tube. No stone.
+
+**IMPRESSION:** 
+
+- Proper position of cholecystosmy tube within collapsed gallbladder.
+
+### Dilate CBD
+
+**Biliary system:** Dilated CBD measures about ___ mm 
+
+
+- **(Not seen cause):** + without demonstrable cause of obstruction. No intrahepatic ductal dilatation. 
+
+
+
+
+
+## Pancreas Findings
+
+### No Acute Pancreatitis
+
+**Pancreas:** Normal size of the visualized portion without detectable pancreatic ductal dilatation or peripancreatic fluid collection. No focal lesion. 
+
+**IMPRESSION:**
+
+-   No sonographic evidence of acute pancreatitis or peripancreatic fluid collection. 
+
+## Renal Findings
+
+### Parenchymatous Dz
+
+Increased echo only => parenchymatous dz.
+
+- **Kidneys:** `[Normal | Small]` size and (mildly) increased parenchymal echogenicity of ___ kidney.
+
+**IMPRESSION:**
+
+-   Parenchymatous disease of ___ kidney.
+
+
+### CKD
+
+Increased echo + small size => *chronic* parenchymatous dz.
+
+- **Kidneys:** Small size ___ kidney, measuring ?x?x? cm, with thinning of cortex, measuring 0.? cm, and increased parenchymal echogenicity. 
+
+**IMPRESSION:**
+
+- Chronic parenchymatous disease of ___ kidney.
+
+### Renal Stone
+
+**Calcified vessel:** Hyperechoic foci at ___, probably calcified vessels or non-obstructive calyceal stone.
+
+
+**Non-obs, caliceal stone:** Normal size and parenchymal echogenicity of both kidneys. Non-obstructing caliceal stones at ?? pole of ?? kidney, measuring ___. No solid mass.
+
+
+**Staghorn stone:** Multiple ___ caliceal stones, up to ?? cm, probably staghorn stones.
+
+
+### Renal Hydronephrosis
+
+#### Hydronephrosis (no cause)
+
+-   **Kidneys:** Dilatation of pelvicalyceal system (extending to proximal part of ureter) without demonstrable cause of obstruction. (± Limited evaluation of mid to distal ureter due to overlying bowel gas.)
+
+**IMPRESSION:** 
+
+-   [Mild | Moderate | Severe] ... hydronephrosis without demonstrable cause.
+
+#### Distended bladder
+
+-   **Kidneys:** Mildly dilated pelvicalyceal system of ___ kidney without demonstrable cause of obstruction. 
+
+**IMPRESSION:**
+
+-   Mild dilatation of the ___ pelvocaleceal system, probably reflux from fully-distended urinary bladder.  
+
+
+### Renal Cyst
+
+A ??-cm (simple) cortical cyst... 
+
+- (±) with calcified wall
+- (±) with internal septation
+- (±) with internal dependent hyperechogenic foci
+
+**Bosniak classification**
+
+See [nice illustrations](https://doi.org/10.53347/rID-20989).
+
+- Class I, II: No need F/U
+
+- Class IIF: F/U
+
+- Class III, IV: further CT or MRI
+
+#### ADPKD
+
+**Kidneys:** Enlarged size with increased parenchymal echogenicity and innumerable cysts of vary in size, measuring up to ___ cm. (Some cysts have hyperechoic content, thin septation and/or calcified walls.) No hydronephrosis or suspicious solid mass.
+
+**IMPRESSION:**
+
+- Parenchymatous kidney disease and innumerable cysts in both kidneys, some cysts have hyperechoic content, thin septation and/or calcified walls.
+
+
+
+### Nephrectomy
+
+- **Partial nephrectomy:** Evidence of partial nephrectomy at ___ of ... kidney.
+
+### Extrarenal pelvis
+
+-   `[Left | Right]` extrarenal pelvis was seen.
+
+-   hypoechoic mass just outside the renal sinus without calyceal system dilatation, consistent with extrarenal pelvis.
+
+(Adapted from [this case report](https://doi.org/10.1002/ccr3.1143))
+
+### Renal Scar
+
+- **Renal cortical defect**: Focal cortical scar at ___ pole of the ___ kidney. ([ref](https://radiopaedia.org/articles/renal-cortical-defect))
+
+### Renal AML
+
+-   **Kidneys:** A ?-cm *hyperechoic lesion* at ___.
+
+**IMPRESSION:**
+
+-   A ?-cm hyperechoic lesion at ___, possibly angiomyolipoma.
+
+## Bladder Findings
+
+
+### Foley
+
+**Bladder:** `[Collapsed | Partially distended]` urinary bladder with retained Foley catheter. No stone or mass.
+
+### Residual Urine
+
+**Bladder:** [small | moderate | large] amount of post-voided residual urine.
+
+### Neobladder
+
+**Bladder:** Surgically absent. The neobladder appears unremarkable. No mass.
+
+### Wall thickening (Collapsed)
+
+**Bladder:** `[Collapsed | Partially distended]` urinary bladder. Mild wall thickening. No stone or mass. 
+
+**IMPRESSION:**
+
+- Bladder wall thickening; probably due to partial distension or cystitis. Please correlate with UA and clinical context.
+
+
+### Hyperechoic Lesion
+
+**Bladder:** An __ hyperechoic lesion at ___ aspect of urinary bladder wall.
+
+**IMPRESSION:**
+
+-  An __ hyperechoic lesion at ___ aspect of urinary bladder wall. Please correlate with cystoscope.
+
+## Repro Findings
+
+### Myoma & Cyst
+
+**Uterus:** 
+
+-   __ of a ? x ? x ?-cm `[intramural | submucosal | subserous]` myoma.
+
+-   Endometrial thickness is measured about __ mm. 
+
+**Ovaries and adnexae:** Normal size of ___ ovaries. A ???-cm cystic lesion at right adnexa, probably functional cyst or endometriotic cyst.
+
+
+### Prostate
+
+#### Prominent prostate (25 - 40 ml)
+
+-   **Prostate gland:** `[Prominent size | Mild enlargement]`, measuring ___ ml in volume.
+
+**IMPRESSION:** 
+
+-   `[Prominent size | Mild enlargement]` of prostate gland.
+
+#### Enlarged prostate
+
+-   **Prostate gland:** (Markedly) enlarged prostate gland with intravesical indentation, measuring 100 ml in volume.
+
+**IMPRESSION:** 
+
+-   (Marked) enlarge prostate gland with intravesical indentation.
+
+
+## Free Fluid
+
+### Ascites
+
+**Peritoneum:** `[Small | Moderate | Large]` amount of free fluid at 
+
+-   (+) subhepatic
+-   (+) perihepatic
+-   (+) perisplenic
+-   (+) bilateral paracolic gutters
+-   (+) pelvic cavity
+
+regions
+
+**IMPRESSION:**
+
+- `[Small | Moderate | Large]` amount of ascites.
+
+### Pleural effusion
+
+**Others:** Partially seen bilateral pleural effusions.
+
+**IMPRESSION:**
+
+-   Presence of bilateral pleural effusion.

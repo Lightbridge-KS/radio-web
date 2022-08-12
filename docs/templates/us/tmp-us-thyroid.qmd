@@ -1,0 +1,78 @@
+# Thyroid Template
+
+## Thyroid Normal
+
+**US OF THE THYROID** 
+
+**FINDINGS:**
+
+**Thyroid:** 
+
+**Right lobe:** Normal size and homogeneous echogenicity. Size = _ x _ x _ cm. No mass. 
+
+**Left lobe:** Normal size and homogeneous echogencity. Size = _ x _ x _ cm. No mass. 
+
+**Isthmus:** Thickness = ___ mm. 
+
+**Cervical lymph nodes:** No enlargement. 
+
+**IMPRESSION:**
+
+- [TODO]
+- No cervical lymphadenopathy
+
+
+## PTC S/P TTD (1 mo)
+
+**HISTORY:** A ??-year-old woman with papillary thyroid cancer S/P TTD (dd/mm/yyyy) ± with I-131 ablation.
+
+**FINDINGS:** 
+
+-  **Thyroid gland:** Status is post total thyroidectomy. There is a small hypoechoic nodule at `[right | left]` sided of thyroid bed, measuring _ x _ cm., probably residual thyroid tissue or post-operative granulation tissue.
+
+-  **Cervical lymph nodes:** There are multiple subcentrimeter oval-shaped lymph nodes with preserved fat hilum at the bilateral cervical regions, measuring up to ___ mm in short axis diameter.  
+
+**IMPRESSION:**
+
+- Hypoechoic nodule at `[right | left]` sided of thyroid bed, probably small residual thyroid tissue or post-operative change. Follow-up is advised.
+- No cervical lymph node enlargement.  
+
+## S/P TTD (normal)
+
+-  **Thyroid gland:** Post total thyroidectomy. Unremarkable thyroid bed. The previously seen heterogeneous hypoechoic lesion at right thyroid fossa is resolved.
+
+**IMPRESSION:** 
+
+- Post total thyroidectomy without residual thyroid tissue or recurrent tumor 
+- No cervical lymphadenopathy.  
+
+
+## Thyroid Enlarge (Diffuse)
+
+
+-  **`[Right | Left]` lobe:** Diffuse enlargement, measuring about _ x _ x _ cm. No focal hypervascular lesion or extrathyroidal extension.
+
+-  **Cervical lymph nodes:** There are multiple subcentrimeter oval-shaped lymph nodes with central fat hilum at the bilateral cervical regions, measuring up to ___ mm in short axis diameter.  
+
+**IMPRESSION:**
+
+- Diffuse thyroid enlargement. 
+- No cervical node enlargement.  
+
+
+## Thyroid Nodule
+
+**Thyroid gland:** 
+
+-   **Right lobe:** Normal size and heterogeneous echogenicity, measuring ?x?x? cm. A ... nodule (with ... calcifications), measuring ?x?x? cm.
+
+-   **Left lobe:** Normal size and heterogeneous echogenicity, measuring ?x?x? cm. No nodule. No calcification is seen.
+
+-   **Isthmus:** Thickness = 2.7 mm.
+
+-   **Cervical lymph nodes:** A few subcentrimeter lymph nodes at the bilateral cervical regions, measuring up to _ mm.
+
+**IMPRESSION:** 
+
+- A ?x?x?-cm ... nodule with ... calcifications at ... thyroid lobe, ([TI-RADS](https://www.acr.org/Clinical-Resources/Reporting-and-Data-Systems/TI-RADS)=?). (FNA is suggested ?)
+- No cervical lymphadenopathy.
