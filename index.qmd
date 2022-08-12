@@ -11,7 +11,6 @@ This is my **radiology website** for knowledge collection, report templates, and
 :::
 
 
-
 ## License
 
 This work is licensed under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) License.
