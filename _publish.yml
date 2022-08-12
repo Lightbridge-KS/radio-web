@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 1a6d05b7-25ba-4666-b6c4-02de9bc2b0ab
+      url: 'https://radio-lightbridge.netlify.app'
