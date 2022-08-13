@@ -1,5 +1,13 @@
 ---
 title: "About"
+subtitle: "Kittipos Sirivongrungson (Lightbridge-KS)"
+about:
+  template: jolla
+  image: img/mountain.jpg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/Lightbridge-KS
 ---
 
-About this site
+Hi, This website contains my collection of radiology knowledge while I'm training as diagnostic radiology residency. I also like writing open-source software using `R`.
