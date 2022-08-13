@@ -70,11 +70,17 @@ website:
     - id: rotations
       collapse-level: 1
       align: left
-      style: "docked"
+      style: "floating"
       contents: 
       - "docs/rotations/index.qmd"
-      - "docs/rotations/test.qmd"
+      - section: Ultrasound
+        contents:
+        - "docs/rotations/us/us-q-ref.qmd"
+        - "docs/rotations/us/us-scan-abdo.qmd"
 
+# Not show source code
+execute: 
+  echo: false
 
 format:
   html:

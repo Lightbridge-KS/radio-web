@@ -1,0 +1,178 @@
+---
+title: "US Quick Ref"
+---
+
+```{r setup, include=FALSE}
+library(dplyr)
+library(tibble)
+library(gt)
+```
+
+## Ref values 
+
+```{r us_nl, include=FALSE}
+us_nl <- list(
+  thyroid = "
+* Size < 3 x 2 x 6 cm ?? (AP x TV x Long)
+* Cervical LN
+    * minimal axial diameter < 1 cm
+    * oval shape (axis–to–long axis ratio [S/L] < 0.5)
+",
+  bladder = "
+* < 0.8 cm (Collapse)
+* < 0.4 cm (Distend)
+",
+  uterus = "
+* Size < 5 x 4 x 8 cm (AP x TV x Long)
+* ETT
+    * < 1.5 cm
+    * < 0.5 cm (post-menstrual)
+",
+  prostate = "
+* < 25 ml (Normal)
+* 25 - 40 ml (Prominent)
+* \\> 40 ml (BPH)
+",
+  kidneys = "
+Normal
+* Long < 10 - 12 cm
+* Cortical thickness > 1 cm
+
+Abnormal
+* Long < 8 cm (kidney disease)
+",
+  spleen = "
+* < 12 cm (Normal)
+* 12 - 15 cm (Mild splenomegaly)
+* \\> 15 cm (Mark splenomegaly)
+",
+  veins = "
+* Splenic v. < 11 mm
+* SMV < 12 mm
+* Portal v. < 13 mm
+",
+  aorta = "
+Normal
+* < 2.5 cm (Upper)
+* < 2 cm (Lower)
+
+Abnormal
+* 2.5 - 3 cm (Ectasia)
+* \\> 3 cm (Aneurysm)
+",
+  liver = "Span 15 - 17 cm (sagital, at MCL)",
+  gb = "
+* Long = 9 - 11 cm
+* TV < 4 cm
+* Wall thickness < 3 mm
+",
+  cbd = "
+* < 0.6 cm (< 0.9 for post-cholecystectomy)
+* Age \\> 60 yrs can dilate 0.1 cm / 10 yrs
+",
+  pancreas = "
+* Main pancreatic duct diameter < 3 mm.  
+"
+)
+```
+
+
+```{r us_nl_tbl}
+us_nl_tbl <- dplyr::tribble(
+  ~Organs, ~`Reference Range`,
+  # KUB
+  "Kidneys", us_nl$kidneys,
+  "Urinary Bladder (wall)", us_nl$bladder,
+  "Residual Urine", "< 100 ml", 
+  # Repro
+  "Uterus", us_nl$uterus, 
+  "Prostate", us_nl$prostate, 
+  # Liver & GB
+  "Liver", us_nl$liver,
+  "Gallbladder", us_nl$gb,
+  "CBD", us_nl$cbd,
+  "Pancreas", us_nl$pancreas,
+  # Vessel
+  "Veins", us_nl$veins,
+  "Aorta",  us_nl$aorta, 
+  "Spleen", us_nl$spleen, 
+  "Thyroid", us_nl$thyroid
+) 
+
+render_gt_us_nl_tbl <- function() {
+  us_nl_tbl %>% 
+  gt(rowname_col = "Organs") %>%
+  fmt_markdown(columns = everything()) %>% 
+  # Row Groups
+  tab_row_group(
+    label = "Vessel",
+    rows = 10:11
+  ) %>% 
+  tab_row_group(
+    label = "HBP",
+    rows = 6:9
+  ) %>% 
+  tab_row_group(
+    label = "Repro",
+    rows = 4:5
+  ) %>% 
+  tab_row_group(
+    label = "KUB", 
+    rows = 2:3
+    ) %>% 
+  # FootNote
+  tab_footnote("AP = Anteroposterior, TV = Transverse, Long = Longitudinal") %>% 
+  # Style: Row Group
+  tab_style(
+    style = cell_text(weight = "bold", size = 20),
+    locations = cells_row_groups()
+  ) %>% 
+  # Style: Column Labels
+  tab_style(
+    style = list(cell_text(weight = "bold", size = 20), 
+                 cell_fill(color = "lightgrey")),
+    locations = cells_column_labels()
+  ) %>% 
+  # Style: Stub
+  tab_style(
+    style = cell_text(weight = "bold" , size = 20),
+    locations = cells_stub()
+  ) %>% 
+  # Style: Cell Body
+  tab_style(
+    style = cell_text(size = 20),
+    locations = cells_body()
+  ) %>% 
+  tab_options(table.width = pct(90))
+}
+
+## Show for HTML only
+
+render_gt_us_nl_tbl()
+```
+
+**Reference**
+
+- Mainly from @abd-us-step-by-step.
+
+
+## Ellipsoid volume
+
+**Approximated formular:**
+
+$$
+0.5 \times D_1 \times D_2 \times D_3
+$$ {#eq-ellipsoid-vol-appr}
+
+@eq-ellipsoid-vol-appr, where $D_1$, $D_2$, $D_3$ are diameter along 3 perpendicular axis.
+
+**Full formular:**
+
+
+$$
+\frac{4}{3} \pi \times r_1 \times r_2 \times r_3 
+$$ {#eq-ellipsoid-vol-full}
+
+@eq-ellipsoid-vol-full, where $r_1$, $r_2$, $r_3$ are radius along 3 perpendicular axis.
+
+(ref: [ellipsoid-calc](https://www.omnicalculator.com/math/ellipsoid-volume))

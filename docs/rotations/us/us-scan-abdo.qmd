@@ -1,0 +1,177 @@
+---
+title: "Abdomen Scan"
+---
+
+## Overview
+
+### Terminology
+
+- `U/S Whole Abdomen` = All abdominal organs
+- `U/S Upper Abdomen` = All abdominal organs - (Bladder & Reproductive orgs)
+- `U/S KUB` = Kidneys + Bladder + Reproductive orgs
+
+### Echogenicity
+
+**Relative echogenicity** on ultrasound (high to low):
+
+Darling Parents So Love Kids
+
+-  **D:** [diaphragm](https://radiopaedia.org/articles/diaphragm?lang=gb)
+-  **P:** [pancreas](https://radiopaedia.org/articles/pancreas?lang=gb)
+-  **S:** [spleen](https://radiopaedia.org/articles/spleen-1?lang=gb)
+-  **L:** [liver](https://radiopaedia.org/articles/liver?lang=gb)
+-  **K:** [kidneys](https://radiopaedia.org/articles/kidneys?lang=gb) (cortex)
+
+(Ref: [radiopedia](https://doi.org/10.53347/rID-11126))
+
+
+## Liver
+
+### Overview
+
+- **Subcostal:** Transverse & longitudinal view of RL & LL (LL must includes **caudate lobe**)
+
+- **Intercostal:** RL
+
+::: {.callout-warning}
+#### Beware
+
+Blind spot of liver at “superior portion of Rt lobe” 
+:::
+
+![Liver scan plane [@abd-us-step-by-step]](../img/us/liver-scan-plane.png){#fig-liver-scan-plane width="50%"}
+
+
+### Measure
+
+- **Normal liver span:** `15 - 17 cm` (sagital, at MCL)
+
+- **Enlarge:** `> 15.5 cm` 
+
+- **Hepatomegaly:** confident if liver extend to caudal of Rt kidney 
+
+(Ref from [@sono-diffuse-liver-dz])
+
+### View: Longitudinal
+
+::: {.panel-tabset}
+### Image
+::: {layout-nrow=2}
+![**Superior border:** longitudinal view [@abd-us-step-by-step]](../img/us/liver-long-sup.png){#fig-liver-long-sup width="80%"}
+
+![**Inferior border:** longitudinal view [@abd-us-step-by-step]](../img/us/liver-long-inf.png){#fig-liver-long-inf width="80%"}
+:::
+
+### Drawing
+::: {layout-nrow=1}
+![Superior border: drawing [@abd-us-step-by-step]](../img/us/liver-long-sup-draw.png){#fig-liver-long-sup-draw width="30%"}
+
+![Inferior border: drawing [@abd-us-step-by-step]](../img/us/liver-long-inf-draw.png){#fig-liver-long-inf-draw width="35%"}
+:::
+
+:::
+
+
+
+### View: Transverse
+
+
+::: {.panel-tabset}
+#### Image
+
+::: {layout-nrow=2}
+![**Left lobe:** transverse view [@abd-us-step-by-step]](../img/us/liver-tv-ll.png){#fig-liver-tv-ll width="80%"}
+
+![**Right lobe:** transverse view [@abd-us-step-by-step]](../img/us/liver-tv-rl.png){#fig-liver-tv-rl width="80%"}
+:::
+
+#### Drawing
+![Transverse view drawing [@abd-us-step-by-step]](../img/us/liver-tv-draw.png){#fig-liver-tv-draw width="80%"}
+
+:::
+
+
+## Gallbladder
+
+- **View:** transverse & longitudinal
+
+- **Measure:** 
+
+    - **Diameter:** long (9 - `11` cm), TV (`< 4` cm)
+    - **Wall thickness** at *anterior wall* in *TV section* (`< 3` mm)
+
+![Gallbladder: a shot to take [@abd-us-step-by-step]](../img/us/gb-shot.png){#fig-gb-shot width="80%"}
+
+## Porta Hepatis
+
+### Measure: CBD & PV
+
+**CBD**
+
+-   **Measure:** internal diameter
+    -  `< 0.6` cm (`< 0.9` for post-cholecystectomy)
+    -  Age \> 60 yrs can dilate 0.1 cm / 10 yrs
+
+**PV**
+
+-   **Measure:** internal diameter `< 13` mm
+-   **Flow direction:** `hepatopetal` ? (toward liver) or `hepatofugal` ? (away from liver)
+
+### View: CBD & PV
+
+**View: longitudinal scan** (with lt lateral decubitus) to see porta hepatis [@fig-portahepatis-long]
+
+![Porta hepatis: CBD and PV [@abd-us-step-by-step]](../img/us/portahepatis-long.png){#fig-portahepatis-long width="80%"}
+
+**Tips: identifying CBD**
+
+-   CBD will appear anterior and parellel to PV and IVC.
+-   Color doppler will show no flow at CBD.
+
+
+
+## Pancreas
+
+### View
+
+**View: transverse view**, angle the probe slightly upward to the liver.
+
+-   use **splenic vein** as a land mark
+
+-   The *money shot* of the pancrease is shown in [@fig-pancrease-tv-goldenview].
+
+::: {.panel-tabset}
+#### Image
+![Pancrease: transverse view [@us-anatomy-2004]](../img/us/pancrease-tv-goldenview.png){#fig-pancrease-tv-goldenview width="80%"}
+
+#### Drawing
+![Pancrease: drawing in transverse view [@us-anatomy-2004]](../img/us/pancrease-tv-goldenview-draw.png){#fig-pancrease-tv-goldenview-draw width="80%"}
+:::
+
+### Finding pancreas
+
+::: {.panel-tabset}
+#### Landmark
+![Pancrease: landmark vessels [@abd-us-step-by-step]](../img/us/pancrease-tv-landmk.png){#fig-pancrease-tv-landmk width="80%"}
+
+#### Scan
+![Pancrease: scanning from rostal to caudal [@abd-us-step-by-step]](../img/us/pancrease-tv-locating.png){#fig-pancrease-tv-locating width="80%"}
+:::
+
+
+### Tips
+
+Pancrease is best examined in fasted patient. 
+
+If bowel gas obstruct the view, try:
+
+-   Examine after the patient change position:
+
+    -   From **lateral decubitus to supine**, or
+    -   From **supine to upright** (sit).
+
+-   Use acoustic windows:
+
+    -   Let the patient **drink some water** to fill in the stomach.
+
+    -   View through the **liver**.
