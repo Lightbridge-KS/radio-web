@@ -1,0 +1,206 @@
+---
+title: "Contrast Reaction"
+---
+
+```{r setup, include=FALSE}
+library(dplyr)
+library(tibble)
+library(gt)
+```
+
+
+## Acute Reaction
+
+### Sign & Symptoms
+
+```{r ctr_rxn_aller}
+ctr_rxn_aller <- list(
+  mild = "
+* Limited urticaria / pruritis
+* Cutaneous Edema
+* Limited “itchy”/“scratchy” throat 
+* Nasal congestion
+* Sneezing / conjunctivitis / rhinorrhea
+",
+  moderate = "
+* Diffuse urticaria / pruritis
+* Diffuse erythema (V/S stable)
+* Facial edema (w/o dyspnea)
+* Wheezing / bronchospasm (mild/no hypoxia)
+* Throat tightness or hoarseness (w/o dyspnea)
+",
+  severe = "
+* Diffuse edema / facial edema + **dyspnea** 
+* Diffuse erythema + **hypotension**
+* Laryngeal edema + (**stridor** and/or **hypoxia**)
+* Wheezing / bronchospasm (significant hypoxia)
+* **Anaphylactic shock** (hypotension + tachycardia)
+"
+)
+```
+
+```{r ctr_rxn_physio}
+ctr_rxn_physio <- list(
+  mild = "
+* Limited N/V
+* Transient flushing / warmth / chills
+* Headache / dizziness / anxiety / altered taste 
+* Mild hypertension
+* Vasovagal reaction (resolves spontaneously)
+",
+  moderate = "
+* Protracted N/V
+* Hypertensive urgency
+* Isolated chest pain
+* Vasovagal reaction (response to Tx)
+",
+  severe = "
+* Arrhythmia
+* Hypertensive emergency
+* Convulsions, seizures
+* Vasovagal reaction (resistant to Tx) 
+"
+)
+```
+
+
+
+```{r ctr_rxn_tbl}
+ctr_rxn_tbl <- dplyr::tribble(
+  ~Severity, ~`Allergic-like`, ~Physiologic,
+  "Mild", ctr_rxn_aller$mild, ctr_rxn_physio$mild,
+  "Moderate", ctr_rxn_aller$moderate, ctr_rxn_physio$moderate,
+  "Severe", ctr_rxn_aller$severe, ctr_rxn_physio$severe
+) 
+
+ctr_rxn_tbl %>% 
+  gt(rowname_col = "Severity") %>% 
+  fmt_markdown(columns = everything()) %>% 
+  # Style: Stub
+  tab_style(
+    style = cell_text(weight = "bold" , size = 15),
+    locations = cells_stub()
+  ) %>% 
+  # Style: Column Labels
+  tab_style(
+    style = list(cell_text(weight = "bold", size = 15), 
+                 cell_fill(color = "lightgrey")),
+    locations = cells_column_labels()
+  ) %>% 
+  # FootNote
+  tab_footnote(md("Adapted from [Table 1](https://www.acr.org/-/media/ACR/Files/Clinical-Resources/Contrast_Media.pdf#page=111) of [ACR Manual On Contrast Media (2022)](https://www.acr.org/Clinical-Resources/Contrast-Manual)")) 
+```
+
+### Treatment
+
+```{r ctr_rxn_tx_tx}
+ctr_rxn_tx_tx <- list(
+  nv = "
+* Stop exam
+* Sit to avoid aspiration
+",
+  urticaria = "
+* Usually self-limited
+* **Moderate:** `CPM 4 mg PO q 6-8 hr`
+* **Severe:** `CPM 10 - 20 mg IV`
+",
+  facial_edm = "
+* O2 mask 6 - 10 LPM
+* `Epinephrine SC or IM (1:1000) 0.1-0.3 mL` (= 0.1 - 0.3 mg) (maximum 1 mg)
+* **If Hypotension**, `Epinephrine (1:10,000) slow IV 1-3 mL` (= 0.1 - 0.3 mg)
+",
+  bronchospasm = "
+* O2 mask 6 - 10 LPM
+* B2 agonist: e.g., `Ventolin 2-3 puffs`
+  * If not response, epinephrine SC or IM
+* If O2 sat < 88% or Severe, ask for help
+",
+  hypo_tach = "
+* Monitor: ECG, pulse oximeter, BP
+* O2 mask 6 - 10 LPM
+* Lift leg 60 deg / Trendelenburg
+* IV fluid (NSS or RLS) large volume
+  * If *not response*, `Epinephrine` slow IV
+",
+  hypo_brad = "
+* Monitor: ECG, pulse oximeter, BP
+* O2 mask 6 - 10 LPM
+* Lift leg 60 deg / Trendelenburg
+* IV fluid (NSS or RLS) large volume
+  * If *not response*, `Atropine 0.6-1 mg slow IV` (maximum 2-3 mg)
+",
+  hyper_severe = "
+* Monitor: ECG, pulse oximeter, BP
+* O2 mask 6 - 10 LPM
+* `Nitroglycerine 0.4 mg tab SL` (maximum 3 doses)
+  * If *not response*, `Labetalol 20 mg IV then 20-80 mg IV q 10 min` (max 300 mg)
+",
+  seizures = "
+* Monitor: V/S (due to resp. depression effect of drug)
+* O2 mask 6 - 10 LPM
+* `Diazepam 5 mg IV` *or* `Midazolam 0.5-1 mg IV`
+",
+  pulm_edema = "
+* O2 mask 6 - 10 LPM
+* Lift head up
+* `Furosemide 20-40 mg IV slow push`
+* `Morphine 1-3 mg IV`
+"
+)
+```
+
+```{r}
+chr_pos_adm <- "Possible admission"
+```
+
+
+```{r ctr_rxn_tx_dispos}
+ctr_rxn_tx_dispos <- list(
+  nv = "Observe 30 min",
+  urticaria = chr_pos_adm,
+  facial_edm = chr_pos_adm,
+  bronchospasm = chr_pos_adm,
+  hypo_tach = chr_pos_adm,
+  hypo_brad = chr_pos_adm,
+  hyper_severe = "Admission",
+  seizures = chr_pos_adm,
+  pulm_edema = chr_pos_adm
+)
+```
+
+
+
+```{r ctr_rxn_tx_tbl}
+ctr_rxn_tx_tbl <- dplyr::tribble(
+  ~Presentation, ~Treatment, ~Disposition,
+  "N/V", ctr_rxn_tx_tx$nv, ctr_rxn_tx_dispos$nv,
+  "Urticaria", ctr_rxn_tx_tx$urticaria, ctr_rxn_tx_dispos$urticaria,
+  "Facial or laryngeal edema", ctr_rxn_tx_tx$facial_edm,
+ctr_rxn_tx_dispos$facial_edm,
+  "Bronchospasm", ctr_rxn_tx_tx$bronchospasm, ctr_rxn_tx_dispos$bronchospasm,
+  "Hypotension + HR > 100", ctr_rxn_tx_tx$hypo_tach, ctr_rxn_tx_dispos$hypo_tach,
+  "Hypotension + HR < 60 (vagal reaction)", ctr_rxn_tx_tx$hypo_brad, ctr_rxn_tx_dispos$hypo_brad,
+  "Severe Hypertension", ctr_rxn_tx_tx$hyper_severe, ctr_rxn_tx_dispos$hyper_severe,
+  "Seizures", ctr_rxn_tx_tx$seizures, ctr_rxn_tx_dispos$seizures,
+  "Pulmonary edema", ctr_rxn_tx_tx$pulm_edema, ctr_rxn_tx_dispos$pulm_edema
+
+)
+
+ctr_rxn_tx_tbl %>% 
+  gt(rowname_col = "Presentation") %>% 
+  fmt_markdown(columns = everything()) %>% 
+  # Style: Stub
+  tab_style(
+    style = cell_text(weight = "bold" , size = 15),
+    locations = cells_stub()
+  ) %>% 
+  # Style: Column Labels
+  tab_style(
+    style = list(cell_text(weight = "bold", size = 15), 
+                 cell_fill(color = "lightgrey")),
+    locations = cells_column_labels()
+  ) %>% 
+    # FootNote
+  tab_footnote(md("Adapted from [Table 3](https://www.acr.org/-/media/ACR/Files/Clinical-Resources/Contrast_Media.pdf#page=122) of [ACR Manual On Contrast Media (2022)](https://www.acr.org/Clinical-Resources/Contrast-Manual)")) 
+```
+

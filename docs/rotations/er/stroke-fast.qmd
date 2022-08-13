@@ -1,0 +1,27 @@
+# Stroke Fast Track
+
+**🎯 Time:** CT to Short Prelim Report ≤ 20 min
+
+::: {.callout-important}
+### Goal
+
+-   **ICH ?**
+-   [**ASPECT Score**](https://www.mdcalc.com/calc/3164/alberta-stroke-program-early-ct-score-aspects): If `onset < 24 hr` or `Unknown` onset
+-   Location of **prior infarction ?** (if presented)
+-   **Arterial occlusion ?**  (Site ?, Thrombus lenght ?)
+:::
+
+## Links
+
+-   [Ischemic stroke (radiopedia)](https://radiopaedia.org/articles/13437)
+
+## Guildline
+
+![Acute Stroke Imaging Guideline [@RadRAMA-ER-Handbook]](../img/er/stroke-img-guideline-radrama.png){#fig-stroke-img-guideline-radrama width="100%"}
+
+
+## ASPECT
+
+- [ASPECT Score MDCalc](https://www.mdcalc.com/calc/3164/alberta-stroke-program-early-ct-score-aspects)
+
+- [ASPECT in Stroke](http://aspectsinstroke.com)

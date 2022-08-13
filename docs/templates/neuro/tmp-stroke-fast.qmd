@@ -1,0 +1,59 @@
+---
+title: "Stroke Fast Temp"
+---
+
+
+## Stroke CT Template
+
+**EMERGENCY MDCT OF THE BRAIN (Stroke Fast Track)**
+
+**HISTORY:** `[stroke onset]` `[symptoms and signs]` 
+
+**TECHNIQUES:** Axial conventional scan of the brain with 4-mm slice thickness
+
+-   **Intravenous contrast brand, concentration, volume:** Not used.
+-   **Immediate complication:** None.
+-   **Estimated radiation dose:**  🤔 mGy, 🤔 mGycm. 
+
+(Standard DRL recommended by the American College of Radiology and European Commission = 75 mGy, 1050 mGycm. Values reported for 16-32-cm PMMA phantom. Uncertainties associated with this method are approximately 20%.)
+
+**COMPARISON:** None. 
+
+**FINDINGS:**
+
+-   **Cerebral parenchyma:** Normal.
+
+-   **Alberta Stroke Program Early CT score (ASPECTS):** `🤔/10` or `N/A`. 
+
+[insert number in case of suspected MCA stroke with [ONSET < 24 hours]{.red} or [WAKE-UP strokes]{.red} (= unknown stroke onset), otherwise use `N/A`]
+
+
+-   **Cerebellum and posterior fossa:** Normal given a limited evaluation of the brainstem due to beam-hardening artifacts. 
+
+-   **Posterior-fossa ASPECTS:** `🤔/10` or `N/A`.
+
+[insert number in case of suspected MCA stroke with [ONSET < 24 hours]{.red} or [WAKE-UP strokes]{.red} (= unknown stroke onset), otherwise use `N/A`]
+
+-   **Extraaxial spaces:** Appropriate for age.
+-   **Ventricles:** Appropriate for age. 
+-   **Midline shift:** None.
+-   **Brain herniation:** None. 
+-   **Vascular system:** Normal. 
+-   **Calvarium and scalp:** Normal.
+-   **Skull base, sella and temporomandibular joints (TMJs):** Normal. 
+-   **Visualized orbits, paranasal sinuses and mastoid air cells:** Normal.
+-   **Visualized upper cervical spine:** No fracture identified. 
+
+**IMPRESSION:**  
+
+- This is a **PRELIMINARY** report made by radiology physician trainees. It has [**not**]{.blue} been [**reviewed**]{.blue} by the attending radiologist.
+- This is a **PRELIMINARY** report made by radiology physician trainees. The study has been [**REVIEWED**]{.blue} by the attending radiologist but the report is [**not yet finalized**.]{.blue} 
+
+- No intracranial hemorrhage, extra-axial collection, acute large territorial infarction, midline shift or brain herniation identified.
+
+
+**Door datetime:** `xx/xx/20xx xx:xx` [ER Check in time, seen in V/S page in EMR]. 
+
+**CT datetime:** `xx/xx/20xx xx:xx xx:xx` [Time of the first image of plain CT].
+
+
