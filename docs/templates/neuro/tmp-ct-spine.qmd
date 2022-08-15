@@ -1,0 +1,21 @@
+---
+title: "CT Spine Temp"
+---
+
+
+## NECK / C-SPINE 
+
+### Normal
+
+-   **Alignment:** Normal cervical lordosis. 
+-   **Bone:** No suspicious osteolytic or osteoblastic lesion. No displaced fracture.
+-   **Soft tissues:** No thyroid nodule. No enlarged cervical lymph node.  
+-   **Included lung apices:** No suspicious pulmonary nodule, consolidation or tree-in-bud opacity. No pneumothorax.
+
+### Alignment
+
+**Alignment:** Decreased cervical lordosis. Grade ? `[anterolisthesis | retrolisthesis]` of C? over C?.
+
+### Bone
+
+**Bone:** Degenerative change of spine.

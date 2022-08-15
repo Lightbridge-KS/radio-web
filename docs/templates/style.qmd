@@ -1,4 +1,6 @@
-# Style Guide {.unnumbered}
+---
+title: "Style Guide"
+---
 
 ::: {.callout-note}
 ### About
@@ -58,7 +60,9 @@ A general style guide for constructing radiology report in English.
 
 **Note:** abbreviation of unit *do not* requires period (e.g., `cm`, `mm`, `ml`).
 
+### To some extend
 
+-   `rather` (e.g. rather ill-defined hypodense lesion at ___)
 
 ## New Lesion
 
@@ -163,8 +167,16 @@ A general style guide for constructing radiology report in English.
 
 `Multi-subj` + `Verb`
 
-**Ex:**
+-   The findings about `A` **with** (associated) `B`, `C`, **and** `D`, **as well as** `E` 
 
-The findings about `A` **with** (associated) `B`, `C`, **and** `D`, **as well as** `E` 
+**`as well as` SYNONYMS**
+
+-   along with
+
+([ref](https://www.thesaurus.com/browse/as%20well%20as))
+
 
 in this report was ...
+
+-   A, B, and C; D and E; and F.
+

@@ -12,6 +12,10 @@
     color: rgb(35, 55, 154);
 }
 
+.orange {
+    color: orangered;
+}
+
 /* Highlight */
 .hl {
     background-color: yellow;

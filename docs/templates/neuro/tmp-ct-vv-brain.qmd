@@ -1,0 +1,70 @@
+---
+title: "CTA / CTV Brain"
+---
+
+## Localization
+
+### Artery
+
+`[left | right | bilateral]`
+
+#### Segment
+
+-   `[proximal | distal]` 
+-   `[inferior | superior]` division of
+
+`[C | M | A | P]` + `[lt | rt]` + `{num}` + `{artery}`
+
+**Ex:**
+
+-   at left proximal M1 MCA.
+-   inferior division of right M2 MCA
+
+#### Main
+
+**Ant**
+
+-   intracranial internal carotid `[artery (ICA) | arteries (ICAs)]`
+-   anterior cerebral `[artery (ACA) | arteries (ACAs)]`
+-   middle cerebral `[artery (MCA) | arteries (MCAs)]`
+
+**Post**
+
+-   vertebral (VA)
+-   cerebellar and posterior cerebral arteries (PCAs)
+
+## CTA Brain
+
+### Normal
+
+[**CTA**]{.maroon} 
+
+-   **Anterior circulation:** Normal enhancement of bilateral intracranial internal carotid arteries (ICAs), anterior cerebral arteries (ACAs), anterior communicating artery (ACoA) and bilateral middle cerebral arteries (MCAs). No embolic occlusion or aneurysm is identified. 
+
+-   **Collateral grading:** Multiphase CTA shows ___ collaterals (score __)*. 
+
+-   **Posterior circulation and venous structures:** Normal enhancement of the vertebral (VA), cerebellar and posterior cerebral arteries (PCA). No embolic occlusion, severe stenosis or aneurysm is identified. 
+
+[**Neck vasculature:**]{.maroon}
+
+-   **Right-sided neck:** Normal enhancement of common, cervical internal/external carotid and vertebral arteries. No severe stenosis or occlusion is identified. 
+
+-   **Left-sided neck:** Normal enhancement of common, cervical internal/external carotid and vertebral arteries. No severe stenosis or occlusion is identified. 
+
+-   **Aortic arch and branches within thorax:** Normal aortic arch branching pattern. No severe stenosis or aneurysm is identified. 
+
+-   **Venous structures:** No abnormal filling defect is detected. 
+
+
+*Criteria and image examples of collaterals are developed by the University of Calgary and can be viewed at <http://aspectsinstroke.com/collateral-scoring>
+
+
+### Abnormal
+
+**Stenosis**
+
+[Severe stenosis/total occlusion | Moderate stenosis | Mild stenosis] of ___ arteries/artery
+
+**Atherosclerois**
+
+(+) with `[Atherosclerosis | atherosclerotic changes]` of ___ arteries/artery

@@ -55,6 +55,8 @@ website:
         - "docs/templates/neuro/tmp-stroke-fast.qmd"
         - "docs/templates/neuro/tmp-ct-brain-loc.qmd"
         - "docs/templates/neuro/tmp-ct-brain-lesion.qmd"
+        - "docs/templates/neuro/tmp-ct-vv-brain.qmd"
+        - "docs/templates/neuro/tmp-ct-spine.qmd"
       - section: Ultrasound
         contents:
         - "docs/templates/us/tmp-us-abdo.qmd"

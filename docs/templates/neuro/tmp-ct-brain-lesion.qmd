@@ -9,12 +9,25 @@ No
 -  intracranial hemorrhage, 
 -  extra-axial collection, 
 -  acute large territorial infarction, 
+-  (if CTA) large vessel occlusion,
 -  midline shift or brain herniation 
 
 identified.
 
-
 ## Infarction
+
+### Territorial Infarction
+
+There is/are (large) `[well | ill]`-defined hypodense lesion(s) involving
+
+-   `[cortical | subcortical]` areas of `{lobe}`
+
+
+-   (+) with associated brain swelling
+
+
+likely `{time}` (large) territorial infarction of `{artery}` territories.
+
 
 ### Lacunar
 
@@ -28,10 +41,16 @@ likely chronic lacunar infarctions.
 
 ### Small VV dz
 
-(Mild) patchy hypodense changes involving at
+(Mild) patchy hypodense changes involving (at)
 
 -   `[lt | rt | bilat]` corona radiata
+
+(These can DDx: CSF resorption)
+
 -   periventricular white matter of {lobe}
+-   deep white matter at bilateral cerebral hemispheres 
+
+representing ischemic white matter change related to `[mild | moderate | severe]` degree of small vessel disease (or transependymal CSF resorption). 
 
 **IMPRESSION:** 
 
@@ -94,6 +113,8 @@ No significant change of pressure effects, seen as ...
 ### Yes
 
 Pressure effect `[causing | is seen as]` ...
+
+-  (+) brain swelling
 
 -  (+) effacement of adjacent `[left | right | bilateral]` `{lobe}` ___ **sulci**,
 

@@ -2,15 +2,56 @@
 title: "CT Brain Temp (Location)"
 ---
 
-## How to Describe
+## Localization
 
-### Lobes region
+### Lobes (Involved)
+
+involving 
+
+-   (+) `[cortical | subcortical]` areas of
+
+-   (+)  `🧠to-🧠to-🧠al`  (e.g., parieto-temporo-occipital ...)
+
+-   (+) `[... portion of | entire]`
+
+**Lobe**
+
+`[lt | rt]`
+
+-   `[frontal | temporal | parietal | occipital]` lobe
+
+-   `[insular]` lobe
+
+**Deep Structures**
+
+-   lentiform nucleus
+
+-   internal capsule
+
+
+**Example:**
+
+-   involving cortical and subcortical areas of entire right temporal lobe.
+-   posterior portion of the right parietal lobe
+
+### Convexity
 
 -  `[left | right | bilat]` {lobe} convexity (e.g., temporal convexity)
 
 -  `[left | right | bilat]` `?-?` convexity (e.g., parieto-occipital convexity)
 
-### Changes
+### Artery territory
+
+`[left | right | bilateral]`
+
+**Anterior circulation:**
+
+-   anterior cerebral artery (ACA) territories.
+-   middle cerebral artery (MCA) territories.
+-   posterior cerebral artery (PCA) territories.
+
+
+## Time
 
 **Series**
 
@@ -25,9 +66,13 @@ title: "CT Brain Temp (Location)"
 
 ## Cerebral parenchyma
 
-### Normal
+### Normal Brain Vol.
 
-The study reveals normal brain volume. The rest of the imaged cerebral parenchyma appears unremarkable. No new acute large territory infarction is identified.
+The study reveals 
+
+-   normal brain volume. 
+-   age-appropriate brain volume.
+
 
 ### Brain Vol. loss
 
@@ -56,3 +101,7 @@ with normal gray-white differentiation of the brain parenchyma.
 ## Skull base/ sella / TMJ
 
 **Skull base, sella and temporomandibular joints (TMJs):** Unremarkable. 
+
+## Sinuses / Air cells
+
+Mucosal thickening of ___ sinus
