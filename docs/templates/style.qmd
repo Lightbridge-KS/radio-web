@@ -40,13 +40,15 @@ A general style guide for constructing radiology report in English.
 
 -   measuring 🤔 cm (previously ? cm) 
 
-## Uncertain
 
-### Uncertain amount
+
+## Amount
 
 -   `[a few | several | innumerable]` + pleural countable n. (e.g., a few cysts)
 
--   `[small | large]` amount of + uncountable n. (e.g., small amount of free fluid)
+-   `[trace < small < moderate < large]` amount of + uncountable n. (e.g., small amount of free fluid)
+
+## Uncertain
 
 ### Uncertain measurement
 
@@ -109,11 +111,11 @@ A general style guide for constructing radiology report in English.
 
 **Sure**
 
+-   likely A
 -   `[consistent | compatible]` with A
 -   `[suggesting | suggestive]` of A
 
--   likely A
--   most likely representing A
+-   `[probably | most likely]` representing A
 
 **Maybe**
 

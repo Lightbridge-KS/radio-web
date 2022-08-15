@@ -69,7 +69,7 @@ likely chronic infarction of the ___ artery territory.
 
 `[There is development of | New]`
 
--   (+) `[Acute | Subacute | Chronic]` (on chronic) subdural hematoma (SDH) along `[left | right]` ___ convexity, measuring up to ?? cm in **maximal thickness**.
+-   (+) `[Acute | Subacute | Chronic]` (or acute-on-chronic) subdural hematoma (SDH) along `[left | right]` ___ convexity, measuring up to ?? cm in **maximal thickness**.
 
 
 -   (+) crescent-shaped `[isodense | hyperdense]` lesion along ___ convexity, about ?? cm in maximal thickness; likely representing `[Acute | Subacute | Chronic]` (on chronic) subdural hematoma (SDH).
@@ -86,6 +86,7 @@ SAH along
 
 -   (+) `[left | right | bilateral]` cerebral sulci
 -   (+)  basal cistern
+-   (+)  `[interpeduncular | perimesencephalic]` cisterns
 -   (+) `[bilateral]` MCA cistern
 -   (+) `[left | right | bilateral]` Sylvian fissure.
 

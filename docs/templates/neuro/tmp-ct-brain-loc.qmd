@@ -59,7 +59,11 @@ involving
 
 -   Sequelae of ___ seen as ...
 
-**New:** There is development of ___
+**New:** 
+
+-   New ___
+s
+-   There is development of ___
 
 **Resolved:** There is resolution of ___
 
