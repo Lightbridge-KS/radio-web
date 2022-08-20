@@ -22,12 +22,14 @@ There is/are (large) `[well | ill]`-defined hypodense lesion(s) involving
 
 -   `[cortical | subcortical]` areas of `{lobe}`
 
-
 -   (+) with associated brain swelling
 
 
 likely `{time}` (large) territorial infarction of `{artery}` territories.
 
+### Segmental Infarction
+
+A `[well | ill]`-defined, **wedge-shaped** hypodense lesion involving ___, likely `{time}` segmental infarction of the `{artery}`. 
 
 ### Lacunar
 
@@ -37,7 +39,9 @@ likely `{time}` (large) territorial infarction of `{artery}` territories.
 
 -   `{side}` lentiform nucleus, 
 
-likely chronic lacunar infarctions.
+-   `{side}` centrum semiovale
+
+likely chronic lacunar infarction(s).
 
 ### Small VV dz
 
@@ -65,20 +69,45 @@ likely chronic infarction of the ___ artery territory.
 
 ## Hemorrhage
 
+### History
+
+Known case of ___ with motorcycle accident and struck ??? to the ground.
+
 ### SDH
 
-`[There is development of | New]`
+`[There is development of | Newly seen | New]`
 
--   (+) `[Acute | Subacute | Chronic]` (or acute-on-chronic) subdural hematoma (SDH) along `[left | right]` ___ convexity, measuring up to ?? cm in **maximal thickness**.
+-   (+) `[Acute | Subacute | Chronic]` (or acute-on-chronic) subdural hematoma (SDH) along  
 
+    -   `{side}` ___ convexity, 
+    -   `{side}` tentorium cerebelli
 
--   (+) crescent-shaped `[isodense | hyperdense]` lesion along ___ convexity, about ?? cm in maximal thickness; likely representing `[Acute | Subacute | Chronic]` (on chronic) subdural hematoma (SDH).
+**+ Thickness**
+
+-   measuring up to ?? cm in **maximal thickness**. 
+
+-   `{location-1}` (? cm-thick), `{location-2}` (? cm-thick)
+
+**Other variant**
+
+-   crescent-shaped `[isodense | hyperdense]` lesion along ___ convexity, about ?? cm in maximal thickness; likely representing `[Acute | Subacute | Chronic]` (on chronic) subdural hematoma (SDH).
 
 **IMPRESSION:** 
+
+-  `{time}` SDH along ___, measuring up to ? cm in maximal thickness.
 
 - `[Increased | decreased]` thickness of __ subdural hematoma (SDH) along __.
 
 -  Thin (? mm) `[Acute | Subacute | Chronic]` SDH along ___.
+
+#### Thin SDH (doubtful)
+
+-  Suspected thin hyperdense extra-axial lesion versus CT artifact at ___, measuring about ? mm in maximal thickness.
+
+
+**IMPRESSION:** 
+
+- Thin (? mm) hyperdense extra-axial lesion at ___, possibly CT artifact or thin acute subdural hematoma. Follow-up is recommended.
 
 ### SAH
 
@@ -93,6 +122,43 @@ SAH along
 ### Contusion
 
 Hemorrhagic brain contusion at ___
+
+### Subgaleal hematoma
+
+**Calvarium and scalp:** Acute subgaleal hematoma (with associated scalp swelling) at ___ region, measuring about ? cm in maximal thickness. 
+
+**IMPRESSION:**
+
+-   Acute subgaleal hematoma with associated scalp swelling at ___ region.
+
+### Multi-compartment
+
+Overall `[decreased | increased | no change of]` attenuation of multi-compartment intracranial hemorrhages, details as follows:
+
+-   `[decreased | increased | no change of]` blah blah
+-   ...
+
+**Examples**
+
+-   **(intraparenchymal):** `{time}` intraparenchymal hemorrhage (with perilesional edema) at ___ lobe, about ?x?x? cm in greatest transaxial and vertical dimensions, respectively.
+
+-   **(air-blood-fluid):** extra-axial air-blood-fluid collections along ___, measuring up to ? cm in maximal thickness.
+
+-   **(IVH):** (small) intraventricular hemorrhage (IVH) at ___.
+
+-   **(SAH):** (acute) subarachnoid hemorrhage (SAH) along ___.
+
+-   **(Air):** pneumocephalus along ___ convexity.
+
+
+
+
+**IMPRESSION:**
+
+Chronological change of multi-compartmental intracranial hemorrhage, including
+
+-   Acute `{some-important-hemorrhage}` ...
+
 
 ## Pressure Effect
 
@@ -129,10 +195,11 @@ Pressure effect `[causing | is seen as]` ...
 
 ## Calcification
 
-(Dense) calcification(s) `[at | along]`
+A (small) (dense) calcification(s) `[at | along]`
 
 -   `[bilateral]` globus pallidus.
 -   falx cerebri
+-   parasagittal frontal lobe
 
 (is noted.)
 
@@ -152,12 +219,27 @@ encephalomalacia/gliosis change
 
 -   Sequelae of old traumatic contusion seen as encephalomalacia/gliosis change at ___ and associated ex-vacuo dilatation of ??? ventricles.
 
+## Hydrocephalus
+
+### Ex-vacuole
+
+`[mild | moderate | severe]` ex-vacuole dilatation of the 
+
+-   occipital horn of ___ lateral ventricle.
+
+### Evan's Index
+
+**Ventricles:** `[No significant change]` of hydrocephalus with **Evans’ index** of ___ (the prior CT study revealed Evan's index of ???). No intraventricular hemorrhage. 
+
+**IMPRESSION:**
+
+- `[No significant change]` of (non-communicating) hydrocephalus with Evans’ index of ___.
 
 ## Post Op
 
 ### Craniotomy 
 
-Evidence of ___ **craniotomy** is noted, 
+Evidence of ___ **craniotomy** is noted, (with VP shunt)
 
 along with post-operative changes seen as 
 
@@ -171,6 +253,22 @@ along with post-operative changes seen as
 
 - Post ___ craniotomy, with post operative changes seen as dural thickening and calcification. `(small)` extradural fluid collection is still noted.
 
+### Dural Thickening / Calcify
+
+No significant change of calcified dural thickening at the `[lt | rt]` cerebral convexity craniotomy site.
+
+
 ## Tube / Line
 
+### NG
+
 **Feeding:** Feeding tube placement via ___ nostril. 
+
+### VP Shunt
+
+**Cerebral parenchyma and extra-axial spaces:** ___ craniotomy with ventricular shunt via ??? approach, which the tip is at the ??? of ??? lateral ventricle abutting the ???.
+
+
+**IMPRESSION:**
+
+-   No change in position of `[lt | rt]` ventricular shunt with its tip in the ___ of ??? lateral ventricle.

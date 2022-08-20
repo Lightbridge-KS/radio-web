@@ -1,0 +1,69 @@
+---
+title: "CT Brain Guide"
+---
+
+## Localization
+
+### Lobes
+
+involving / of
+
+-   (+) `[cortical | subcortical]` areas of
+
+-   (+)  `🧠to-🧠to-🧠al`  (e.g., parieto-temporo-occipital ...)
+
+-   (+) `[... portion of | entire]`
+
+**Lobe**
+
+`[lt | rt]`
+
+-   `[frontal | temporal | parietal | occipital]` lobe
+
+-   `[insular]` lobe
+
+**Deep Structures**
+
+-   lentiform nucleus
+
+-   internal capsule
+
+
+**Example:**
+
+-   involving cortical and subcortical areas of entire right temporal lobe.
+-   posterior portion of the right parietal lobe
+
+### Convexity / region
+
+-  `[left | right | bilat]` {lobe} convexity/region(s) (e.g., temporal convexity)
+
+-  `[left | right | bilat]` `?-?` convexity/region(s) (e.g., parieto-occipital convexity)
+
+### Artery territory
+
+`[left | right | bilateral]`
+
+**Anterior circulation:**
+
+-   anterior cerebral artery (ACA) territories.
+-   middle cerebral artery (MCA) territories.
+-   posterior cerebral artery (PCA) territories.
+
+
+## Time
+
+
+**Series**
+
+-   Chronological change of ___, `[now seen as | demonstrated as]` ...
+
+-   Sequelae of ___ seen as ...
+
+**New:** 
+
+-   New ___
+s
+-   There is development of ___
+
+**Resolved:** There is resolution of ___

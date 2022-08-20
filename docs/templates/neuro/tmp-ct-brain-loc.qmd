@@ -2,70 +2,21 @@
 title: "CT Brain Temp (Location)"
 ---
 
-## Localization
+## Normal CT Brain
 
-### Lobes (Involved)
+**FINDINGS:**
 
-involving 
-
--   (+) `[cortical | subcortical]` areas of
-
--   (+)  `🧠to-🧠to-🧠al`  (e.g., parieto-temporo-occipital ...)
-
--   (+) `[... portion of | entire]`
-
-**Lobe**
-
-`[lt | rt]`
-
--   `[frontal | temporal | parietal | occipital]` lobe
-
--   `[insular]` lobe
-
-**Deep Structures**
-
--   lentiform nucleus
-
--   internal capsule
-
-
-**Example:**
-
--   involving cortical and subcortical areas of entire right temporal lobe.
--   posterior portion of the right parietal lobe
-
-### Convexity
-
--  `[left | right | bilat]` {lobe} convexity (e.g., temporal convexity)
-
--  `[left | right | bilat]` `?-?` convexity (e.g., parieto-occipital convexity)
-
-### Artery territory
-
-`[left | right | bilateral]`
-
-**Anterior circulation:**
-
--   anterior cerebral artery (ACA) territories.
--   middle cerebral artery (MCA) territories.
--   posterior cerebral artery (PCA) territories.
-
-
-## Time
-
-**Series**
-
--   Chronological change of ___, now seen as ...
-
--   Sequelae of ___ seen as ...
-
-**New:** 
-
--   New ___
-s
--   There is development of ___
-
-**Resolved:** There is resolution of ___
+-   **Cerebral parenchyma:** The study reveals __________. Normal parenchymal attenuation and gray-white differentiation. The rest of imaged cerebral parenchyma appears unremarkable. No acute large territorial infarction or intraparenchymal hemorrhage is identified. 
+-   **Cerebellum and posterior fossa:** Normal given a limited evaluation of the brainstem due to beam-hardening artifacts. The cerebellums appears unremarkable. 
+-   **Extraaxial spaces:** No extra-axial collection is observed. 
+-   **Ventricles:** Normal size of the ventricular system. No intraventricular hemorrhage. 
+-   **Midline shift:** None. 
+-   **Brain herniation:** None. 
+-   **Vascular system:** Normal. 
+-   **Calvarium and scalp:** No fracture is identified. 
+-   **Skull base, sella and temporomandibular joints (TMJs):** Normal.
+-   **Visualized orbits, paranasal sinuses and mastoid air cells:** Normal. 
+-   **Visualized upper cervical spine:** No fracture identified.
 
 
 ## Cerebral parenchyma
@@ -82,16 +33,16 @@ The study reveals
 
 The study reveals:
 
-diffuse brain volume loss, 
+`[Diffuse | Generalized]` brain volume loss, (most pronounced at ___)
 
--  `appropriate for age`
--  `advanced more than age`
+-  (+) `appropriate for age`
+-  (+) `advanced more than age`
 
 with normal gray-white differentiation of the brain parenchyma.
 
 ## Posterior fossa
 
-**Cerebellum and posterior fossa:** Normal given a limited evaluation of the brainstem due to beam-hardening artifacts.
+
 
 ## Vascular system
 
@@ -99,8 +50,16 @@ with normal gray-white differentiation of the brain parenchyma.
 
 **Vascular system:** `[Mild | Moderate | Severe]` atherosclerotic change of the
 
--   ICAs
+-   (bilateral) (intracranial) ICAs
 -   vertebrobasilar system
+
+## Calvarium and scalp
+
+**Calvarium and scalp:** Soft tissue swelling/contusion at ___ regions.
+
+**IMPRESSION:**
+
+- Soft tissue swelling/contusion at the ___ regions. 
 
 ## Skull base/ sella / TMJ
 
@@ -108,4 +67,38 @@ with normal gray-white differentiation of the brain parenchyma.
 
 ## Sinuses / Air cells
 
-Mucosal thickening of ___ sinus
+### The Rest is OK
+
+The rest of the imaged paranasal sinuses, both mastoid air cells, both orbits and nasopharynx are unremarkable.
+
+### Mucosa thickening
+
+**Visualized orbits, paranasal sinuses and mastoid air cells:** `[Mild | Moderate | Severe]` mucosal thickening
+
+-   (if inspissated content) with hyperdense content
+
+-   (if chronic sinusitis) `[mild | moderate | severe]` sclerotic bone change 
+
+`[of | involving]` ___ sinus
+
+**IMPRESSION:**
+
+-   Mild = Don't mention
+
+-   Chronic left ___ sinusitis with inspissated content and/or fungal colonization. 
+
+#### Air-fluid Lv
+
+**Visualized orbits, paranasal sinuses and mastoid air cells:** Air-fluid level with internal bubbles at ___ sinus.
+
+**IMPRESSION:**
+
+- Air-fluid level with internal bubbles at ___ sinus, possibly acute right sphenoid sinusitis. 
+
+### Mucous retention cysts
+
+**Visualized orbits, paranasal sinuses and mastoid air cells:** (Few) mucous retention cysts within the ___ sinus
+
+### Hypoplasia
+
+Hypoplasia of ___ sinuses / air cells,

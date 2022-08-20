@@ -53,7 +53,7 @@ title: "CTA / CTV Brain"
 
 -   **Aortic arch and branches within thorax:** Normal aortic arch branching pattern. No severe stenosis or aneurysm is identified. 
 
--   **Venous structures:** No abnormal filling defect is detected. 
+-   **Venous structures:** The major venous sinuses are patent. No abnormal filling defect is detected. 
 
 
 *Criteria and image examples of collaterals are developed by the University of Calgary and can be viewed at <http://aspectsinstroke.com/collateral-scoring>

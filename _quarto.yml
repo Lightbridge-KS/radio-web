@@ -53,6 +53,7 @@ website:
       - section: Neurology
         contents:
         - "docs/templates/neuro/tmp-stroke-fast.qmd"
+        - "docs/templates/neuro/tmp-ct-brain-guide.qmd"
         - "docs/templates/neuro/tmp-ct-brain-loc.qmd"
         - "docs/templates/neuro/tmp-ct-brain-lesion.qmd"
         - "docs/templates/neuro/tmp-ct-vv-brain.qmd"
