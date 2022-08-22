@@ -45,16 +45,17 @@ likely chronic lacunar infarction(s).
 
 ### Small VV dz
 
-(Mild) patchy hypodense changes involving (at)
+(Mild) patchy ill-defined hypodense `[changes | lesions]` involving (at)
 
 -   `[lt | rt | bilat]` corona radiata
 
 (These can DDx: CSF resorption)
 
+-   {side} {lobe} white matter
 -   periventricular white matter of {lobe}
 -   deep white matter at bilateral cerebral hemispheres 
 
-representing ischemic white matter change related to `[mild | moderate | severe]` degree of small vessel disease (or transependymal CSF resorption). 
+probably representing ischemic white matter change related to `[mild | moderate | severe]` degree of small vessel disease (or transependymal CSF resorption). 
 
 **IMPRESSION:** 
 
@@ -118,6 +119,20 @@ SAH along
 -   (+)  `[interpeduncular | perimesencephalic]` cisterns
 -   (+) `[bilateral]` MCA cistern
 -   (+) `[left | right | bilateral]` Sylvian fissure.
+
+### Intraparenchymal
+
+**Structure**
+
+{time} intraparenchymal hemorrhage *epicenter* at the ____, involving ??? 
+
+-   (+) with blood spillage into ___ ventricle
+
+-   (+) with perilesional edema involving ____ {pressure effect ?}
+
+**Chages** 
+
+-   (interval) `[decreased | increased | no significant change]` (in) size and density of ___
 
 ### Contusion
 
@@ -234,6 +249,16 @@ encephalomalacia/gliosis change
 **IMPRESSION:**
 
 - `[No significant change]` of (non-communicating) hydrocephalus with Evans’ index of ___.
+
+## Degeneration
+
+### Wallerian
+
+Wallerian degeneration of the
+
+-   {side} cerebral peduncle
+
+is noted.
 
 ## Post Op
 

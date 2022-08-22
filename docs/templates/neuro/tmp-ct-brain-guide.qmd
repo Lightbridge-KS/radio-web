@@ -34,6 +34,10 @@ involving / of
 -   involving cortical and subcortical areas of entire right temporal lobe.
 -   posterior portion of the right parietal lobe
 
+### Some part
+
+-   ___ `[portion | aspect | part]`
+
 ### Convexity / region
 
 -  `[left | right | bilat]` {lobe} convexity/region(s) (e.g., temporal convexity)
@@ -63,7 +67,16 @@ involving / of
 **New:** 
 
 -   New ___
-s
+
 -   There is development of ___
 
-**Resolved:** There is resolution of ___
+**Resolved:** 
+
+-   There is (partial) resolution of ___ the pre-existing ???
+
+
+## Density
+
+-   hypodense, isodense, hyperdense
+
+-   mixed ?-?dense (e.g., mixed hypo-hyperdense)

@@ -24,9 +24,13 @@ A general style guide for constructing radiology report in English.
 
 ## Size Change
 
+`{measurement}` = {size | amount | degree}
+
 **Full**
 
--   `[increase | decrease | No significant change]` (in size) of 🤔
+-   `[increase | decrease | No significant change]` (in `{measurement}`) of 🤔
+
+-   **(sentense)** {subject} `[appears | is/are]` unchanged. 
 
 **Abbreviated**
 
@@ -42,11 +46,13 @@ A general style guide for constructing radiology report in English.
 
 
 
-## Amount
+## Amount / Size
 
 -   `[a few | several | innumerable]` + pleural countable n. (e.g., a few cysts)
 
 -   `[trace < small < moderate < large]` amount of + uncountable n. (e.g., small amount of free fluid)
+
+-   `[tiny | small | large]` lesion (e.g., small hyperdense lesion at)
 
 ## Uncertain
 
@@ -74,6 +80,11 @@ A general style guide for constructing radiology report in English.
 
 -   🤔 are seen, measuring about ___
 
+## Old lesion
+
+-   `Pre-existing` ___ (e.g., decreased size of the pre-existing acute intraparenchymal hemorrhage)
+
+-   `Previously seen` ___
 
 ##  Seen on
 
@@ -93,7 +104,10 @@ A general style guide for constructing radiology report in English.
 ## The rest is OK
 
 -   Otherwise, unremarkable
+
 -   The remainder of ... is/are unremarkable.
+
+-   😇 is/are within normal limits.  
 
 ## Limited evaluation
 

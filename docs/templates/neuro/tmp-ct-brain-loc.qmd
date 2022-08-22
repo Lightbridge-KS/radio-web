@@ -102,3 +102,11 @@ The rest of the imaged paranasal sinuses, both mastoid air cells, both orbits an
 ### Hypoplasia
 
 Hypoplasia of ___ sinuses / air cells,
+
+
+## Orbit
+
+
+### Lens Extraction
+
+-   `[Bilateral | lt | rt]` len(s) extraction is observed.
