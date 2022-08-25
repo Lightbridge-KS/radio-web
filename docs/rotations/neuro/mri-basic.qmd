@@ -15,6 +15,8 @@ library(gt)
 
 Compare intensity to grey matter.
 
+[**T1**]{.blue}
+
 -   **Hypo T1:** fluid (chronic lesion)
 
 -   **Hyper T1:** 
@@ -23,6 +25,8 @@ Compare intensity to grey matter.
     -   Blood (early & late subacute)
     -   Paramagnetic, Melanin
 
+[**T2**]{.blue}
+
 -   **Hyper T2:** fluid (CSF) > fat   
 
 
@@ -30,6 +34,8 @@ Compare intensity to grey matter.
 
 
 -   **Hypo T1 & T2:** Air, Flow void (high-flow vessel), Calcification
+
+
 
 -   **Iso T1 & T2:** Muscle
 
