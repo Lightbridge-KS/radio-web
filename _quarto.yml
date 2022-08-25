@@ -58,6 +58,7 @@ website:
         - "docs/templates/neuro/tmp-ct-brain-lesion.qmd"
         - "docs/templates/neuro/tmp-ct-vv-brain.qmd"
         - "docs/templates/neuro/tmp-ct-spine.qmd"
+        - "docs/templates/neuro/tmp-film-skull.qmd"
       - section: Ultrasound
         contents:
         - "docs/templates/us/tmp-us-abdo.qmd"

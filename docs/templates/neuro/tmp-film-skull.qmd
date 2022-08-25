@@ -1,0 +1,103 @@
+---
+title: "Film Skull & Sinus"
+---
+
+## Normal
+
+### Skull AP / Lat
+
+**SKULL (AP, LATERAL)** 
+
+**HISTORY:** ___
+**COMPARISON:** ___
+
+**FINDINGS:** 
+
+-   No acute displaced fracture of the cranial vault and facial bones. 
+-   No evidence of bone destruction.
+-   The (rest of the) visualized paranasal sinuses and mastoid air cells `[appear unremarkable | are clear]`.
+-   Midline nasal septum. 
+-   No acute displaced fracture of the visualized upper cervical spine.
+
+**IMPRESSION:**
+
+- No acute displaced fracture or bone destruction.
+
+## Misc. findings
+
+### Dental
+
+(Evidence of)
+
+-   `{quantity}` metallic dental materials 
+-   dental arch bars
+-   dental filling materials
+
+are noted.
+
+### Spine
+
+-   Degenerative change of upper cervical spine.
+
+## Body assult 
+
+### Normal
+
+**HISTORY:** Body assault with ___. 
+
+**IMPRESSION:**
+
+-   No acute displaced fracture or bone destruction.
+
+### Hematoma
+
+-   Soft tissue density lesion at the ___, likely hematoma.
+
+
+## Sinusitis
+
+### What to look
+
+-   Haziness ^[frontal sinus compare to orbit]
+-   `{degree}` mucosal thickening
+-   sclerotic bone change
+-   air-fluid level
+
+### Sinus description
+
+**mastoid:** `{side}` mastoid air cells (**if inflam** = mastoiditis)
+
+### Sinusitis (Unspecified)
+
+-   Haziness of the ___ (without air-fluid level).
+
+**IMPRESSION:**
+
+-   Haziness of the ___, (probably ___itis).
+
+### Acute Sinusitis
+
+-  **(trauma Hx.)** Air-fluid level in the ___ sinus, probably *acute sinusitis* or *hemosinus*. The rest of the visualized paranasal sinuses and mastoid air cells appear unremarkable.
+
+**IMPRESSION:**
+
+-   Air-fluid level in the ___ sinus, probably acute sinusitis or hemosinus. Clinical correlation is recommended.
+
+### Chronic Sinusitis
+
+-   `{changes}` `{degree}` mucosal thickening with sclerotic bone change of the ___ sinus. No air-fluid level is observed.
+
+**IMPRESSION:**
+
+-   `{changes}` chronic ___ sinusitis.
+
+### F/U Sinusitis
+
+**Improving:**
+
+-   Decreased mucosal thickening and air-fluid level in the ___, suggesting improvement of ____. 
+
+
+## TMJ
+
+-   Anterior dislocation of the left temporomandibular joint.
