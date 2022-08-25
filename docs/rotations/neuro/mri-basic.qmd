@@ -1,0 +1,82 @@
+---
+title: "MRI Basic"
+---
+
+```{r setup, include=FALSE}
+library(here)
+library(dplyr)
+library(tibble)
+library(gt)
+```
+
+## Intensity Pattern
+
+### Mono
+
+Compare intensity to grey matter.
+
+-   **Hypo T1:** fluid (chronic lesion)
+
+-   **Hyper T1:** 
+    -   Fat (except `T1FS`)
+    -   Protein (depend on content)
+    -   Blood (early & late subacute)
+    -   Paramagnetic, Melanin
+
+-   **Hyper T2:** fluid (CSF) > fat   
+
+
+### Combined
+
+
+-   **Hypo T1 & T2:** Air, Flow void (high-flow vessel), Calcification
+
+-   **Iso T1 & T2:** Muscle
+
+
+
+
+-   **Hypo T1 + Hyper T2:** fluid
+
+
+
+
+
+## Blood Signal
+
+![MRI Signal of Aging Blood [@bradleyMRAppearanceHemorrhage1993] and [blog post](https://limpeter-mriblog.blogspot.com/2009/12/mr-signal-intensity-of-aging-blood.html)](../img/neuro/MRI-signal-blood.png){#fig-mri-sig-blood width="60%"}
+
+
+```{r txt_mri}
+txt_mri <- list(
+    iso = "**I**sointense",
+    bright = "**B**right",
+    dark = "**D**ark"
+)
+```
+
+```{r mri_blood_sig_gt}
+mri_blood_sig_gt <- tibble::tribble(
+   ~Hemorrhage, ~Time, ~T1, ~T2,
+    "Hyperacute", "\\< 12 hr", txt_mri$iso, txt_mri$bright,
+    "Acute", "12 hr - 2 days",  txt_mri$iso, txt_mri$dark,
+    "Early subacute", "2 - 7 days", txt_mri$bright, txt_mri$dark,
+    "Late subacute", "1 wks - 2 mos", txt_mri$bright, txt_mri$bright,
+    "Chronic", "\\> 2 mos", txt_mri$dark, txt_mri$dark
+)  %>% 
+  gt(rowname_col = "Hemorrhage") %>% 
+  fmt_markdown(columns = everything()) %>% 
+  # Style: Stub
+  tab_style(
+    style = cell_text(weight = "bold" , size = 15),
+    locations = cells_stub()
+  ) %>% 
+  # Style: Column Labels
+  tab_style(
+    style = list(cell_text(weight = "bold", size = 15), 
+                 cell_fill(color = "lightgrey")),
+    locations = cells_column_labels()
+  )
+
+mri_blood_sig_gt
+```
