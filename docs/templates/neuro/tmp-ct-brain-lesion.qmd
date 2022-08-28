@@ -78,7 +78,7 @@ Known case of ___ with motorcycle accident and struck ??? to the ground.
 
 `[There is development of | Newly seen | New]`
 
--   (+) `[Acute | Subacute | Chronic]` (or acute-on-chronic) subdural hematoma (SDH) along  
+-   (+) `[Acute | Subacute | Chronic]` subdural hematoma (SDH) along  
 
     -   `{side}` ___ convexity, 
     -   `{side}` tentorium cerebelli
@@ -101,6 +101,16 @@ Known case of ___ with motorcycle accident and struck ??? to the ground.
 
 -  Thin (? mm) `[Acute | Subacute | Chronic]` SDH along ___.
 
+
+#### Acute-on-chronic SDH
+
+-   Mixed hyper-hypodense subdural collections along ___, measuring up to 😳 cm, representing acute on chronic subdural hematoma (SDH).
+
+**IMPRESSION:**
+
+-   Acute ontop chronic SDH along ___. 
+
+
 #### Thin SDH (doubtful)
 
 -  Suspected thin hyperdense extra-axial lesion versus CT artifact at ___, measuring about ? mm in maximal thickness.
@@ -109,6 +119,10 @@ Known case of ___ with motorcycle accident and struck ??? to the ground.
 **IMPRESSION:** 
 
 - Thin (? mm) hyperdense extra-axial lesion at ___, possibly CT artifact or thin acute subdural hematoma. Follow-up is recommended.
+
+### EDH
+
+- A small acute epidural hematoma at the ___. 
 
 ### SAH
 
@@ -194,15 +208,18 @@ No significant change of pressure effects, seen as ...
 
 ### Yes
 
-Pressure effect `[causing | is seen as]` ...
+(Associated) pressure effect `[causing | is seen as]` ...
 
 -  (+) brain swelling
-
--  (+) effacement of adjacent `[left | right | bilateral]` `{lobe}` ___ **sulci**,
 
 -  (+) ?-mm `rightward | leftward` **midline shift**
 
 -  (+) (impending) ___ **herniation**
+
+-  (+) effacement of the adjacent 
+
+    -   `[left | right | bilateral]` `{lobe}` ___ **sulci**,
+    -   ___ ventricle.
 
 **IMPRESSION:** 
 
@@ -210,13 +227,30 @@ Pressure effect `[causing | is seen as]` ...
 
 ## Calcification
 
+### Normal Calcification
+
+**Ref:** [Normal intracranial calcification](https://radiopaedia.org/articles/12999)
+
 A (small) (dense) calcification(s) `[at | along]`
 
 -   `[bilateral]` globus pallidus.
 -   falx cerebri
+-   pineal gland 
 -   parasagittal frontal lobe
 
 (is noted.)
+
+
+### Multiple Calcification
+
+**Ref:** [Multiple calcification](https://radiopaedia.org/articles/8211) 
+
+-   multiple scattered foci of calcifications in bilateral cerebral hemispheres, predominantly located along the gray-white matter junction.
+
+
+**IMPRESSION:**
+
+-   Multiple scattered foci of calcifications in bilateral cerebral hemispheres, likely representing sequelae of **chronic granulomatous disease** or **calcified neurocysticercosis**. Clinical correlation is required.  
 
 
 ## Chronic lesion
@@ -236,11 +270,13 @@ encephalomalacia/gliosis change
 
 ## Hydrocephalus
 
+`{degree}` = `[mild | moderate | severe]`
+
+-   `{degree}` obstructive hydrocephalus as evidenced by `{degree}` dilatation of the ___ ventricle. 
+
 ### Ex-vacuole
 
-`[mild | moderate | severe]` ex-vacuole dilatation of the 
-
--   occipital horn of ___ lateral ventricle.
+`{degree}` ex-vacuole dilatation of the ??? horn of ___ lateral ventricle.
 
 ### Evan's Index
 
@@ -281,6 +317,16 @@ along with post-operative changes seen as
 ### Dural Thickening / Calcify
 
 No significant change of calcified dural thickening at the `[lt | rt]` cerebral convexity craniotomy site.
+
+### Burr hole
+
+#### SDH s/p burr holes 
+
+-   **air-fluid-blood:** The study reveals new evidence of `{location}` burr holes for subdural clot irrigation, now leaving **air-fluid-blood collection** along the ___, measuring up to ?. 
+ 
+-   **Pressure:** Decreased pressure effect seen ___. 
+ 
+-   **Scalp:** Subgaleal collection and scalp edema along the both-sided head are observed, likely postoperative change.  
 
 
 ## Tube / Line

@@ -57,6 +57,11 @@ involving / of
 
 ## Time
 
+**Base**
+
+-   Acute, Subacute, Chronic
+
+-   Acute-on-chronic or Acute on chronic 
 
 **Series**
 

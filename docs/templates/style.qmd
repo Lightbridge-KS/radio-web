@@ -36,6 +36,8 @@ A general style guide for constructing radiology report in English.
 
 -   No changed of 🤔 at ...
 
+-   Unchanged 🤔 (don't use article)
+
 -   🤔 size ___, unchanged.
 
 **Previous comparison**
@@ -53,6 +55,13 @@ A general style guide for constructing radiology report in English.
 -   `[trace < small < moderate < large]` amount of + uncountable n. (e.g., small amount of free fluid)
 
 -   `[tiny | small | large]` lesion (e.g., small hyperdense lesion at)
+
+## Many locations
+
+-   `Multifocal` ___ (scattered ...) (e.g. multifocal patchy) 
+
+-   Multiple `scattered` foci
+
 
 ## Uncertain
 
@@ -79,6 +88,19 @@ A general style guide for constructing radiology report in English.
 -   Newly seen a 🤔 at ⛰
 
 -   🤔 are seen, measuring about ___
+
+## Illustrative conjuction
+
+`{finding}`  ??? `{explaination}` 
+
+**Causal**
+
+-   causing
+
+**Illustrate**
+
+-   as evidenced by
+-   seen as
 
 ## Old lesion
 
@@ -143,9 +165,17 @@ A general style guide for constructing radiology report in English.
 
 ## Suggestion
 
+**F/U**
+
 -   (+) Follow-up is advised.
 
+**Clinical**
+
 -   (+) Please correlate with clinical findings.
+
+-   (+) Clinical correlation is required. 
+
+**Investigate**
 
 -   (+) Further (evaluation by) ... is recommended.
 
