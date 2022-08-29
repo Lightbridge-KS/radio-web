@@ -6,6 +6,10 @@ title: "CT Brain Temp (Lesion)"
 
 ### CT Brain
 
+**NECT**
+
+No
+
 -  intracranial hemorrhage, 
 -  extra-axial collection, 
 -  acute large territorial infarction, 
