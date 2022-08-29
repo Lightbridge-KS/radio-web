@@ -4,9 +4,7 @@ title: "CT Brain Temp (Lesion)"
 
 ## Short Prelim
 
-### CT Brain
-
-**NECT**
+### CT Brain NC
 
 No
 
@@ -17,18 +15,22 @@ No
 
 identified.
 
-**if CTA**
+### CT Brain with CM
+
+**For CTA**
 
 Add
 
 -  (+) No large vessel occlusion,
 -  (+) No aneurysm, dissection or other neurovascular abnormality identified.
 
-**if CT Brain + CM**
+**For Post-contrast**
 
 Add
 
 -  (+) No abnormal enhancing lesion,
+
+identified.
 
 ## Infarction
 
