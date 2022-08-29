@@ -1,12 +1,12 @@
 ---
-title: "CT Brain Temp (Location)"
+title: "CT Brain Temp (location)"
 ---
 
 ## Normal CT Brain
 
 **FINDINGS:**
 
--   **Cerebral parenchyma:** The study reveals __________. Normal parenchymal attenuation and gray-white differentiation. The rest of imaged cerebral parenchyma appears unremarkable. No acute large territorial infarction or intraparenchymal hemorrhage is identified. 
+-   **Cerebral parenchyma:** The study reveals __________. Normal parenchymal attenuation and grey-white differentiation. The rest of imaged cerebral parenchyma appears unremarkable. No acute large territorial infarction or intraparenchymal hemorrhage is identified. 
 -   **Cerebellum and posterior fossa:** Normal given a limited evaluation of the brainstem due to beam-hardening artifacts. The cerebellums appears unremarkable. 
 -   **Extraaxial spaces:** No extra-axial collection is observed. 
 -   **Ventricles:** Normal size of the ventricular system. No intraventricular hemorrhage. 

@@ -4,15 +4,27 @@ title: "CT Brain Temp (Lesion)"
 
 ## Short Prelim
 
-No 
+### CT Brain
 
 -  intracranial hemorrhage, 
 -  extra-axial collection, 
 -  acute large territorial infarction, 
--  (if CTA) large vessel occlusion,
 -  midline shift or brain herniation 
 
 identified.
+
+**if CTA**
+
+Add
+
+-  (+) No large vessel occlusion,
+-  (+) No aneurysm, dissection or other neurovascular abnormality identified.
+
+**if CT Brain + CM**
+
+Add
+
+-  (+) No abnormal enhancing lesion,
 
 ## Infarction
 
@@ -148,6 +160,14 @@ SAH along
 
 -   (interval) `[decreased | increased | no significant change]` (in) size and density of ___
 
+**IMPRESSION:**
+
+-   Acute intraparenchymal hematoma (? ml), **centered** at the ___, involving ____. 
+    -   (+) with a few foci of active contrast extravasation
+
+(This likely represents hypertensive hemorrhage.)
+
+
 ### Contusion
 
 Hemorrhagic brain contusion at ___
@@ -159,6 +179,16 @@ Hemorrhagic brain contusion at ___
 **IMPRESSION:**
 
 -   Acute subgaleal hematoma with associated scalp swelling at ___ region.
+
+### Active Bleed
+
+**Spot sign**
+
+-   CTA and post contrast series show few *enhancing foci* within this hematoma (spot sign), suggestive of active contrast extravasation. 
+
+**IMPRESSION:**
+
+Acute intraparenchymal hematoma ...... with (a few) foci of active contrast extravasation 
 
 ### Multi-compartment
 
