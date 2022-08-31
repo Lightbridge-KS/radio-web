@@ -153,6 +153,9 @@ A general style guide for constructing radiology report in English.
 
 -   `[probably | most likely]` representing A
 
+-   in keeping with A
+
+
 **Maybe**
 
 -   `[probably = possibly > could be]` A, B, or C
