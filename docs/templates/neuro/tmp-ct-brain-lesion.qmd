@@ -367,9 +367,10 @@ No significant change of calcified dural thickening at the `[lt | rt]` cerebral 
 
 ## Tube / Line
 
-### NG
+### Enteric
 
-**Feeding:** Feeding tube placement via ___ nostril. 
+-   Enteric tube via ___ nostril (without visualized its tips) is noted. 
+
 
 ### VP Shunt
 
