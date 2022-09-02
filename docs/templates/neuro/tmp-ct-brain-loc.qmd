@@ -118,3 +118,10 @@ Hypopneumatization of the ___ frontal sinus.
 -   `{side}` len(s) extraction is observed.
 
 -   Evidence of `{side}` lens extraction.
+
+
+## EAC
+
+### Ear pluck
+
+-   Soft tissue lesion in ___ EAC, probably impacted cerumen or ear wax.
