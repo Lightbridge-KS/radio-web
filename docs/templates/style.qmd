@@ -102,6 +102,12 @@ A general style guide for constructing radiology report in English.
 -   as evidenced by
 -   seen as
 
+## Filling conjuction
+
+-   Note is made of ___
+
+-   ___ is agin `[noted | depicted]`.
+
 ## Old lesion
 
 -   `Pre-existing` ___ (e.g., decreased size of the pre-existing acute intraparenchymal hemorrhage)
@@ -159,6 +165,8 @@ A general style guide for constructing radiology report in English.
 **Maybe**
 
 -   `[probably = possibly > could be]` A, B, or C
+
+-   `suspected of` A
 
 ## IMP Tricks
 

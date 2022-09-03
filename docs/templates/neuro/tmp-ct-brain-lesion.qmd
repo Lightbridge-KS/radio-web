@@ -85,6 +85,9 @@ A wedge-shaped hypodense lesion at ___,
 
 likely chronic infarction of the ___ artery territory. 
 
+### Time Changes
+
+-   **Subacute -> Chronic:** increased conspicuity and decreased attenuation
 
 ## Hemorrhage
 
