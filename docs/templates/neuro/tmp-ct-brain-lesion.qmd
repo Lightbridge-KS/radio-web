@@ -51,15 +51,9 @@ A `[well | ill]`-defined, **wedge-shaped** hypodense lesion involving ___, likel
 
 ### Lacunar
 
-`[A few | several]` (small) **well-defined hypodense lesions** at 
+`[A few | several]` (small) **well-defined hypodense lesions** at ___
 
--   `[anterior | posterior]` limb of internal capsule
-
--   `{side}` lentiform nucleus, 
-
--   `{side}` centrum semiovale
-
-likely chronic lacunar infarction(s).
+likely chronic lacunar infarction(s) (or dilated perivascular space).
 
 ### Small VV dz
 
@@ -335,7 +329,51 @@ Wallerian degeneration of the
 
 is noted.
 
+## Tumor
+
+### Lipoma 
+
+- A tiny well-defined hypodense lesion at parasagittal region of right paracentral lobule, probably representing interhemispheric lipoma
+
 ## Post Op
+
+-   Post-operative changes seen as ___
+
+### Post-Op Tumor (Bad)
+
+**History:** ... S/P craniotomy with tumor removal and decompression... He was sent to rule-out *post-operative bleeding*.
+
+**Findings:** *Limited evaluation of residual tumor due to lack of IV contrast.* 
+
+The study reveals evidence of `{side}` `{lobe}` craniotomy for tumor removal and decompression with details of postoperative changes as follows:
+
+**(Collection)**
+
+-   Newly seen an evidence of **air-blood-fluid collection** in surgical cavity and extra-axial space of the ___ convexities (?? cm) with connection to subgaleal air-fluid collection and scalp swelling at right frontoparietotemporal convexities, measuring about ? cm in maximal thickness. 
+
+**(Edema + Pressure Effect)**
+
+-   Associated surrounding vasogenic edema of the ___ lobe adjacent to the surgical site is observed. Note is made of an **increased pressure effect** seen as ......
+
+**(Residual Tumor)**
+
+- Suspected of residual tumor seen as an evidence of homogeneous hyperdense lesion involving ___
+
+**(Hydrocephalus)**
+
+- ___ degree of obstructive hydrocephalus seen as ..... dilatation of the ..... ventricle. 
+
+
+**IMPRESSION:**
+
+1. New evidence of ___ craniotomy for decompression with tumor removal with postoperative changes as described above. 
+
+2. Increased pressure effect with ___.
+
+3. Suspected the residual tumor seen as an evidence of ___
+
+4. No acute intracranial hemorrhage or acute large territorial infarction
+
 
 ### Craniotomy 
 

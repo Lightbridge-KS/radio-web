@@ -2,7 +2,9 @@
 title: "CT Brain Temp (location)"
 ---
 
-## Normal CT Brain
+## Normal CT Brain NC
+
+### ER
 
 **FINDINGS:**
 
@@ -18,6 +20,28 @@ title: "CT Brain Temp (location)"
 -   **Visualized orbits, paranasal sinuses and mastoid air cells:** Normal. 
 -   **Visualized upper cervical spine:** No fracture identified.
 
+### Ward
+
+**EMERGENCY MDCT SCAN OF THE BRAIN**
+
+**History:**
+
+**Technique:** Plain axial MDCT scan of the brain was performed with 3.0 mm slice thickness contiguously with multiplanar reformations. 
+
+
+**Findings:**
+
+**(Brain volume)** The study reveals __________.
+
+**(The Rest)**
+
+-   The rest of imaged cerebral parenchyma shows normal parenchymal attenuation and grey-white differentiation. 
+
+-   No acute intracranial hemorrhage or acute large territorial infarction is identified
+
+-   The rest of the brainstem and cerebellum appears unremarkable, given a limited evaluation of the brainstem and cerebellum due to beam-hardening artifact.
+
+-   The rest of visualized both orbits, paranasal sinuses, mastoid air cells, nasopharynx, skull base, and calvarium appear unremarkable.
 
 ## Cerebral parenchyma
 
