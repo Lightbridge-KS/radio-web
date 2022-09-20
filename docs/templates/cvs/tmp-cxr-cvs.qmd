@@ -12,8 +12,8 @@ title: "CXR CVS Template"
 
 **FINDINGS:** 
 
--   **Tubes/lines:** None. 
--   **Lungs:** Normal lung volumes. No abnormal pulmonary opacity. 
+-   **Tubes and lines:** None. 
+-   **Lungs and trachea:** Normal lung volumes. No abnormal pulmonary opacity. 
 -   **Diaphragm, pleura and costophrenic angles:** No pneumothorax or pleural effusion. 
 -   **Heart and mediastinum:** Normal cardiac silhouette. Normal mediastinal contour. Tortuous aorta ?. 
 -   **Bony structures:** Unremarkable for age. Degenerative change of the spine.
@@ -38,6 +38,7 @@ title: "CXR CVS Template"
 -   Symmetrical subtle patchy ground glass opacities at periphery of bilateral lower lung zones; probably summation of breast tissues.
 
 ### Aging
+
 -   Diffuse mild tortuous lung marking at both lungs could be due to aging process.
 
 ## Heart & Mediastinum
@@ -45,6 +46,24 @@ title: "CXR CVS Template"
 ### Cardiomegaly
 
 -   {degree} cardiomegaly (with atherosclerotic change of the aorta)
+
+-   Enlarged cardiac silhouette; probably relate to suboptimal inspiration or true opacity.
+
+### Pulmonary Venous HTN
+
+**Lungs and trachea:** Cephalization is noted.
+
+**Heart and mediastinum:** Increased pulmonary vasculature.
+
+### Pulmonary Arterial HTN
+
+**Heart and mediastinum:** Enlargement of the MPA and right descending lobar pulmonary artery.
+
+**IMPRESSION:**
+
+-   Enlargement of the MPA and right descending lobar pulmonary artery, possibly pulmonary arterial hypertension. `{echo + clinical corr}`
+
+
 
 ### Aorta
 
@@ -58,6 +77,10 @@ title: "CXR CVS Template"
 
 -   Evidence of CABG
 
+### Stent
+
+-   Evidence of coronary stents, unchanged.
+
 ### Prosthetic Valve
 
 -   Seen prosthetic aortic valve
@@ -65,3 +88,8 @@ title: "CXR CVS Template"
 ### Bony 
 
 -   Degenerative change of spine.
+
+## Recommend
+
+
+-   **Echo + Clinical:** Correlation with echocardiogram and clinical contex are reccommended.
