@@ -67,6 +67,7 @@ website:
       - section: CVS
         contents:
         - "docs/templates/cvs/tmp-doppler.qmd"
+        - "docs/templates/cvs/tmp-cxr-cvs.qmd"
       - section: Chest
         contents:
         - "docs/templates/chest/tmp-cxr.qmd"
