@@ -69,6 +69,8 @@ title: "CXR CVS Template"
 
 -   (+) Peribronchial cuffing
 
+-   (+) Blurring of pulmonary vasculature | perihilar haziness
+
 
 in both lungs (with Kerley B lines), likely representing 
 
@@ -133,6 +135,13 @@ in both lungs (with Kerley B lines), likely representing
 ### Pleural thickening
 
 -   Persistent blunting of the ___ costophrenic angle(s), probably pleural thicking.
+
+
+## Abdomen
+
+### Gallstone
+
+-   Round calcification at RUQ abdomen, likely calcified gallstone.
 
 ## Recommend
 
