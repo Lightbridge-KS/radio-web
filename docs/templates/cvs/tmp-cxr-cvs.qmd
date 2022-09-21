@@ -41,6 +41,16 @@ title: "CXR CVS Template"
 
 -   Diffuse mild tortuous lung marking at both lungs could be due to aging process.
 
+### Atelectasis
+
+#### Subsegmental Atelect
+
+-   Subsegmental atelectasis/fibrosis at ___ zone.
+
+#### Plate Atelect
+
+-   Linear opacity at left ___ lung zone, probably plate atelectasis/fibrosis.
+
 ## Heart & Mediastinum
 
 ### Cardiomegaly
@@ -51,17 +61,34 @@ title: "CXR CVS Template"
 
 ### Pulmonary Venous HTN
 
-**Lungs and trachea:** Cephalization is noted.
+**Lungs and trachea:** 
+
+-   `[Cephalization | increased redistribution]` of the pulmonary vessels
+
+-   (+) Diffuse interstitial opacities
+
+-   (+) Peribronchial cuffing
+
+
+in both lungs (with Kerley B lines), likely representing 
+
+-   Interstitial pulmonary edema.
+
+**Diaphragm, pleura and costophrenic angles:** (Minimal) Fluid in right minor fissure.
 
 **Heart and mediastinum:** Increased pulmonary vasculature.
 
+**IMPRESSION:**
+
+-   Cardiomegaly with pulmonary edema.
+
 ### Pulmonary Arterial HTN
 
-**Heart and mediastinum:** Enlargement of the MPA and right descending lobar pulmonary artery.
+**Heart and mediastinum:** Enlargement of the MPA and right descending interlobar pulmonary artery with rapid tapering of distal pulmonary artery.
 
 **IMPRESSION:**
 
--   Enlargement of the MPA and right descending lobar pulmonary artery, possibly pulmonary arterial hypertension. `{echo + clinical corr}`
+-   Enlargement of the MPA and right descending lobar pulmonary artery, concerning for pulmonary arterial hypertension. `{echo + clinical corr}`
 
 
 
@@ -85,9 +112,27 @@ title: "CXR CVS Template"
 
 -   Seen prosthetic aortic valve
 
-### Bony 
+## Bony 
 
 -   Degenerative change of spine.
+
+## Diaphragm
+
+### Eventration
+
+-   (Persistent) of focal lobulated contour of the ___ hemidiaphragm, probably focal eventration or focal diaphragmatic defect related to remote diaphragmatic injury.
+
+## Pleura
+
+### Effusion
+
+**Mild Blunt**
+
+-   Mild Blunting of the ___ costophrenic angle(s), probably small amount of pleural effusion or pleural thicking.
+
+### Pleural thickening
+
+-   Persistent blunting of the ___ costophrenic angle(s), probably pleural thicking.
 
 ## Recommend
 
