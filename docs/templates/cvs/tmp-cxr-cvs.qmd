@@ -76,6 +76,11 @@ in both lungs (with Kerley B lines), likely representing
 
 -   Interstitial pulmonary edema.
 
+
+
+**(Follow-Up)** Increased degree of interstitial pulmonary edema, seen as ...
+
+
 **Diaphragm, pleura and costophrenic angles:** (Minimal) Fluid in right minor fissure.
 
 **Heart and mediastinum:** Increased pulmonary vasculature.
@@ -128,9 +133,14 @@ in both lungs (with Kerley B lines), likely representing
 
 ### Effusion
 
-**Mild Blunt**
+**Mild**
 
 -   Mild Blunting of the ___ costophrenic angle(s), probably small amount of pleural effusion or pleural thicking.
+
+**Moderate**
+
+-   Decreased `{side}` lung volume with `[increased | decreased]` amount of `{side}` pleural effusion and passive atelectasis of `[RLL | LLL]`.
+
 
 ### Pleural thickening
 
