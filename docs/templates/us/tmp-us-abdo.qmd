@@ -313,6 +313,9 @@ See [nice illustrations](https://doi.org/10.53347/rID-20989).
 
 - Bladder wall thickening; probably due to partial distension or cystitis. Please correlate with UA and clinical context.
 
+### Turbid
+
+**Bladder:** Debris/mild turbid urine in bladder.
 
 ### Hyperechoic Lesion
 
