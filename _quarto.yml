@@ -99,9 +99,8 @@ execute:
 format:
   html:
     theme: 
-      light: cosmo 
-      dark: slate
-    css: styles.css
+      light: [default, styles-light.scss]
+      dark: [darkly, styles-dark.scss]
     toc: true
 
 # Bibliography

@@ -1,0 +1,43 @@
+/*-- scss:defaults --*/
+$heading-blue: #0b5394 !default;
+$heading-purple: #5431af !default;
+$heading-green: #1d9812 !default;
+
+
+/*-- scss:rules --*/
+/* Heading 2 */
+h2, h2 span.header-section-number{
+    color: $heading-blue;
+}
+
+/* Heading 3 */
+h3, h3 span.header-section-number {
+    color: $heading-purple;
+}
+
+/* Heading 4 */
+h4, h4 span.header-section-number {
+    color: $heading-green;
+}
+
+
+.red {
+    color: red;
+}
+
+.maroon {
+    color: rgb(161, 5, 5);
+}
+
+.blue {
+    color: rgb(35, 55, 154);
+}
+
+.orange {
+    color: orangered;
+}
+
+/* Highlight */
+.hl {
+    background-color: yellow;
+}

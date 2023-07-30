@@ -1,0 +1,25 @@
+/*-- scss:defaults --*/
+
+$primary: #2c2c2c;
+
+/*-- scss:rules --*/
+
+kbd, .kbd{
+  background-color: #222222 !important;
+}
+
+
+/* Heading 2 */
+h2, h2 span.header-section-number{
+    color: #8ab7df;
+}
+
+/* Heading 3 */
+h3, h3 span.header-section-number {
+    color: #b8a3ee;
+}
+
+/* Heading 4 */
+h4, h4 span.header-section-number {
+    color: #aae7a5;
+}
