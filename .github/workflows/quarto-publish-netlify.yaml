@@ -23,10 +23,10 @@ jobs:
       
       # add software dependencies here
   
-      - name: Set up R Environment
-        uses: r-lib/actions/setup-renv@v2 # Installs packages from renv lockfile
-        with:
-          cache-version: 1
+      # - name: Set up R Environment
+      #   uses: r-lib/actions/setup-renv@v2 # Installs packages from renv lockfile
+      #   with:
+      #     cache-version: 1
 
       # To publish to Netlify, RStudio Connect, or GitHub Pages, uncomment
       # the appropriate block below
