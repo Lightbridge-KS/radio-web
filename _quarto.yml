@@ -13,6 +13,10 @@ website:
   repo-url: https://github.com/Lightbridge-KS/radio-web
   repo-actions: [edit]
   page-navigation: true
+  search: 
+    location: navbar
+    type: overlay
+    keyboard-shortcut: ["/", "s", "f"]
 
   page-footer: 
     center: 
