@@ -91,6 +91,7 @@ website:
       - section: Neuro
         contents:
         - "docs/rotations/neuro/mri-basic.qmd"
+        - "docs/rotations/neuro/HEENT-Cancer.md"
       - section: Ultrasound
         contents:
         - "docs/rotations/us/us-q-ref.qmd"
